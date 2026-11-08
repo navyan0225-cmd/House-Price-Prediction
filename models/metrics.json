@@ -1,0 +1,20 @@
+[
+  {
+    "model": "Linear Regression",
+    "r2": 0.8715,
+    "mae": 2339286.0,
+    "rmse": 4062615.0
+  },
+  {
+    "model": "Random Forest",
+    "r2": 0.9733,
+    "mae": 851298.0,
+    "rmse": 1851412.0
+  },
+  {
+    "model": "Neural Network (Deep Learning)",
+    "r2": 0.9887,
+    "mae": 729657.0,
+    "rmse": 1204888.0
+  }
+]

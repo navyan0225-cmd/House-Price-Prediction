@@ -1,0 +1,841 @@
+house_id,state,district,place,location,area,dimensions,square_feet,bedrooms,bhk,bathrooms,price
+1,Karnataka,Bengaluru,Indiranagar,City Center,North,40 x 60 ft,2400,5,5 BHK,3,22870000
+2,Karnataka,Bengaluru,Indiranagar,City Center,East,50 x 80 ft,4000,2,2 BHK,2,34850000
+3,Karnataka,Bengaluru,Indiranagar,City Center,South,50 x 80 ft,4000,4,4 BHK,3,34850000
+4,Karnataka,Bengaluru,Indiranagar,City Center,South,40 x 60 ft,2400,2,2 BHK,1,22160000
+5,Karnataka,Bengaluru,Indiranagar,City Center,East,50 x 80 ft,4000,4,4 BHK,1,35840000
+6,Karnataka,Bengaluru,Indiranagar,City Center,East,30 x 40 ft,1200,4,4 BHK,3,11350000
+7,Karnataka,Bengaluru,Indiranagar,City Center,North,30 x 50 ft,1500,4,4 BHK,3,14780000
+8,Karnataka,Bengaluru,Indiranagar,City Center,North,30 x 50 ft,1500,5,5 BHK,3,14510000
+9,Karnataka,Bengaluru,Indiranagar,City Center,South,30 x 40 ft,1200,4,4 BHK,1,11930000
+10,Karnataka,Bengaluru,Indiranagar,City Center,West,30 x 40 ft,1200,1,1 BHK,1,10510000
+11,Karnataka,Bengaluru,Indiranagar,City Center,West,40 x 60 ft,2400,4,4 BHK,3,22440000
+12,Karnataka,Bengaluru,Indiranagar,City Center,South,30 x 50 ft,1500,1,1 BHK,1,13870000
+13,Karnataka,Bengaluru,Indiranagar,City Center,South,30 x 40 ft,1200,4,4 BHK,2,10870000
+14,Karnataka,Bengaluru,Indiranagar,City Center,West,30 x 40 ft,1200,4,4 BHK,2,11280000
+15,Karnataka,Bengaluru,Indiranagar,City Center,West,40 x 60 ft,2400,1,1 BHK,1,21370000
+16,Karnataka,Bengaluru,Indiranagar,City Center,South,50 x 80 ft,4000,2,2 BHK,2,37490000
+17,Karnataka,Bengaluru,Indiranagar,City Center,East,20 x 30 ft,600,4,4 BHK,1,5780000
+18,Karnataka,Bengaluru,Indiranagar,City Center,West,50 x 80 ft,4000,1,1 BHK,1,37910000
+19,Karnataka,Bengaluru,Indiranagar,City Center,North,20 x 30 ft,600,4,4 BHK,3,6190000
+20,Karnataka,Bengaluru,Indiranagar,City Center,South,30 x 50 ft,1500,3,3 BHK,1,14100000
+21,Karnataka,Bengaluru,Whitefield,Suburb,West,30 x 40 ft,1200,1,1 BHK,1,8540000
+22,Karnataka,Bengaluru,Whitefield,Suburb,West,30 x 40 ft,1200,1,1 BHK,1,8090000
+23,Karnataka,Bengaluru,Whitefield,Suburb,North,50 x 80 ft,4000,3,3 BHK,2,28510000
+24,Karnataka,Bengaluru,Whitefield,Suburb,North,30 x 50 ft,1500,5,5 BHK,3,11110000
+25,Karnataka,Bengaluru,Whitefield,Suburb,East,50 x 80 ft,4000,2,2 BHK,2,28040000
+26,Karnataka,Bengaluru,Whitefield,Suburb,South,30 x 50 ft,1500,1,1 BHK,1,10200000
+27,Karnataka,Bengaluru,Whitefield,Suburb,East,40 x 60 ft,2400,5,5 BHK,3,16160000
+28,Karnataka,Bengaluru,Whitefield,Suburb,South,20 x 30 ft,600,4,4 BHK,1,4650000
+29,Karnataka,Bengaluru,Whitefield,Suburb,West,50 x 80 ft,4000,5,5 BHK,3,28460000
+30,Karnataka,Bengaluru,Whitefield,Suburb,South,50 x 80 ft,4000,3,3 BHK,3,26520000
+31,Karnataka,Bengaluru,Whitefield,Suburb,South,30 x 40 ft,1200,5,5 BHK,2,8970000
+32,Karnataka,Bengaluru,Whitefield,Suburb,West,40 x 60 ft,2400,4,4 BHK,2,17440000
+33,Karnataka,Bengaluru,Whitefield,Suburb,North,30 x 40 ft,1200,4,4 BHK,1,8540000
+34,Karnataka,Bengaluru,Whitefield,Suburb,West,20 x 30 ft,600,1,1 BHK,1,4170000
+35,Karnataka,Bengaluru,Whitefield,Suburb,West,50 x 80 ft,4000,1,1 BHK,1,25810000
+36,Karnataka,Bengaluru,Whitefield,Suburb,East,30 x 50 ft,1500,1,1 BHK,1,9990000
+37,Karnataka,Bengaluru,Whitefield,Suburb,West,30 x 40 ft,1200,4,4 BHK,3,8410000
+38,Karnataka,Bengaluru,Whitefield,Suburb,South,20 x 30 ft,600,4,4 BHK,1,4450000
+39,Karnataka,Bengaluru,Whitefield,Suburb,East,40 x 60 ft,2400,4,4 BHK,2,17130000
+40,Karnataka,Bengaluru,Whitefield,Suburb,East,20 x 30 ft,600,5,5 BHK,1,5040000
+41,Karnataka,Bengaluru,Electronic City,Outskirts,East,20 x 30 ft,600,2,2 BHK,2,3240000
+42,Karnataka,Bengaluru,Electronic City,Outskirts,South,50 x 80 ft,4000,1,1 BHK,1,19430000
+43,Karnataka,Bengaluru,Electronic City,Outskirts,West,50 x 80 ft,4000,4,4 BHK,2,21390000
+44,Karnataka,Bengaluru,Electronic City,Outskirts,South,40 x 60 ft,2400,3,3 BHK,3,12010000
+45,Karnataka,Bengaluru,Electronic City,Outskirts,East,50 x 80 ft,4000,4,4 BHK,2,20670000
+46,Karnataka,Bengaluru,Electronic City,Outskirts,North,20 x 30 ft,600,1,1 BHK,1,3020000
+47,Karnataka,Bengaluru,Electronic City,Outskirts,South,30 x 50 ft,1500,4,4 BHK,3,7800000
+48,Karnataka,Bengaluru,Electronic City,Outskirts,North,30 x 50 ft,1500,3,3 BHK,3,7620000
+49,Karnataka,Bengaluru,Electronic City,Outskirts,North,30 x 40 ft,1200,1,1 BHK,1,5990000
+50,Karnataka,Bengaluru,Electronic City,Outskirts,West,30 x 40 ft,1200,2,2 BHK,2,6070000
+51,Karnataka,Bengaluru,Electronic City,Outskirts,West,30 x 40 ft,1200,1,1 BHK,1,5930000
+52,Karnataka,Bengaluru,Electronic City,Outskirts,East,40 x 60 ft,2400,5,5 BHK,1,13110000
+53,Karnataka,Bengaluru,Electronic City,Outskirts,West,20 x 30 ft,600,1,1 BHK,1,3180000
+54,Karnataka,Bengaluru,Electronic City,Outskirts,West,30 x 50 ft,1500,4,4 BHK,2,8250000
+55,Karnataka,Bengaluru,Electronic City,Outskirts,South,40 x 60 ft,2400,3,3 BHK,1,11910000
+56,Karnataka,Bengaluru,Electronic City,Outskirts,North,40 x 60 ft,2400,3,3 BHK,2,12870000
+57,Karnataka,Bengaluru,Electronic City,Outskirts,South,50 x 80 ft,4000,2,2 BHK,2,20200000
+58,Karnataka,Bengaluru,Electronic City,Outskirts,West,30 x 50 ft,1500,5,5 BHK,1,7910000
+59,Karnataka,Bengaluru,Electronic City,Outskirts,West,20 x 30 ft,600,5,5 BHK,3,3800000
+60,Karnataka,Bengaluru,Electronic City,Outskirts,East,20 x 30 ft,600,4,4 BHK,3,3520000
+61,Karnataka,Mysuru,Saraswathipuram,City Center,East,50 x 80 ft,4000,3,3 BHK,2,19200000
+62,Karnataka,Mysuru,Saraswathipuram,City Center,East,30 x 40 ft,1200,5,5 BHK,2,6240000
+63,Karnataka,Mysuru,Saraswathipuram,City Center,West,20 x 30 ft,600,5,5 BHK,1,3450000
+64,Karnataka,Mysuru,Saraswathipuram,City Center,South,30 x 50 ft,1500,1,1 BHK,1,7240000
+65,Karnataka,Mysuru,Saraswathipuram,City Center,North,50 x 80 ft,4000,5,5 BHK,2,18510000
+66,Karnataka,Mysuru,Saraswathipuram,City Center,East,50 x 80 ft,4000,5,5 BHK,1,18850000
+67,Karnataka,Mysuru,Saraswathipuram,City Center,North,30 x 50 ft,1500,4,4 BHK,1,7040000
+68,Karnataka,Mysuru,Saraswathipuram,City Center,North,50 x 80 ft,4000,1,1 BHK,1,17550000
+69,Karnataka,Mysuru,Saraswathipuram,City Center,West,30 x 40 ft,1200,2,2 BHK,2,5740000
+70,Karnataka,Mysuru,Saraswathipuram,City Center,South,30 x 40 ft,1200,2,2 BHK,2,5710000
+71,Karnataka,Mysuru,Saraswathipuram,City Center,South,30 x 40 ft,1200,1,1 BHK,1,5350000
+72,Karnataka,Mysuru,Saraswathipuram,City Center,South,50 x 80 ft,4000,2,2 BHK,2,18150000
+73,Karnataka,Mysuru,Saraswathipuram,City Center,West,20 x 30 ft,600,5,5 BHK,2,3280000
+74,Karnataka,Mysuru,Saraswathipuram,City Center,South,50 x 80 ft,4000,4,4 BHK,1,17800000
+75,Karnataka,Mysuru,Saraswathipuram,City Center,South,40 x 60 ft,2400,3,3 BHK,3,10720000
+76,Karnataka,Mysuru,Saraswathipuram,City Center,South,30 x 40 ft,1200,3,3 BHK,1,5650000
+77,Karnataka,Mysuru,Saraswathipuram,City Center,West,50 x 80 ft,4000,2,2 BHK,2,17440000
+78,Karnataka,Mysuru,Saraswathipuram,City Center,North,30 x 40 ft,1200,3,3 BHK,1,5860000
+79,Karnataka,Mysuru,Saraswathipuram,City Center,South,40 x 60 ft,2400,4,4 BHK,1,11350000
+80,Karnataka,Mysuru,Saraswathipuram,City Center,East,50 x 80 ft,4000,4,4 BHK,2,18680000
+81,Karnataka,Mysuru,Vijayanagar,Suburb,South,40 x 60 ft,2400,5,5 BHK,2,8860000
+82,Karnataka,Mysuru,Vijayanagar,Suburb,South,30 x 50 ft,1500,1,1 BHK,1,5180000
+83,Karnataka,Mysuru,Vijayanagar,Suburb,East,30 x 40 ft,1200,5,5 BHK,2,5020000
+84,Karnataka,Mysuru,Vijayanagar,Suburb,South,20 x 30 ft,600,4,4 BHK,1,2510000
+85,Karnataka,Mysuru,Vijayanagar,Suburb,North,20 x 30 ft,600,2,2 BHK,2,2230000
+86,Karnataka,Mysuru,Vijayanagar,Suburb,East,50 x 80 ft,4000,5,5 BHK,1,14900000
+87,Karnataka,Mysuru,Vijayanagar,Suburb,South,50 x 80 ft,4000,5,5 BHK,3,13610000
+88,Karnataka,Mysuru,Vijayanagar,Suburb,South,30 x 50 ft,1500,5,5 BHK,2,5530000
+89,Karnataka,Mysuru,Vijayanagar,Suburb,South,40 x 60 ft,2400,5,5 BHK,3,8440000
+90,Karnataka,Mysuru,Vijayanagar,Suburb,North,40 x 60 ft,2400,5,5 BHK,2,9080000
+91,Karnataka,Mysuru,Vijayanagar,Suburb,East,40 x 60 ft,2400,1,1 BHK,1,8200000
+92,Karnataka,Mysuru,Vijayanagar,Suburb,South,30 x 40 ft,1200,2,2 BHK,2,4410000
+93,Karnataka,Mysuru,Vijayanagar,Suburb,West,40 x 60 ft,2400,2,2 BHK,2,8760000
+94,Karnataka,Mysuru,Vijayanagar,Suburb,West,20 x 30 ft,600,5,5 BHK,1,2680000
+95,Karnataka,Mysuru,Vijayanagar,Suburb,West,30 x 40 ft,1200,1,1 BHK,1,4330000
+96,Karnataka,Mysuru,Vijayanagar,Suburb,East,30 x 40 ft,1200,3,3 BHK,1,4480000
+97,Karnataka,Mysuru,Vijayanagar,Suburb,West,30 x 50 ft,1500,5,5 BHK,3,6000000
+98,Karnataka,Mysuru,Vijayanagar,Suburb,East,30 x 40 ft,1200,3,3 BHK,1,4310000
+99,Karnataka,Mysuru,Vijayanagar,Suburb,East,30 x 40 ft,1200,5,5 BHK,3,4860000
+100,Karnataka,Mysuru,Vijayanagar,Suburb,South,20 x 30 ft,600,2,2 BHK,1,2410000
+101,Karnataka,Mysuru,Hebbal,Outskirts,South,30 x 40 ft,1200,3,3 BHK,1,3420000
+102,Karnataka,Mysuru,Hebbal,Outskirts,West,50 x 80 ft,4000,2,2 BHK,1,10650000
+103,Karnataka,Mysuru,Hebbal,Outskirts,West,40 x 60 ft,2400,1,1 BHK,1,6370000
+104,Karnataka,Mysuru,Hebbal,Outskirts,East,30 x 40 ft,1200,5,5 BHK,1,3750000
+105,Karnataka,Mysuru,Hebbal,Outskirts,West,20 x 30 ft,600,3,3 BHK,2,1890000
+106,Karnataka,Mysuru,Hebbal,Outskirts,East,50 x 80 ft,4000,4,4 BHK,1,10690000
+107,Karnataka,Mysuru,Hebbal,Outskirts,North,20 x 30 ft,600,3,3 BHK,1,1910000
+108,Karnataka,Mysuru,Hebbal,Outskirts,East,40 x 60 ft,2400,1,1 BHK,1,5970000
+109,Karnataka,Mysuru,Hebbal,Outskirts,West,20 x 30 ft,600,4,4 BHK,1,2170000
+110,Karnataka,Mysuru,Hebbal,Outskirts,West,20 x 30 ft,600,4,4 BHK,2,2120000
+111,Karnataka,Mysuru,Hebbal,Outskirts,North,30 x 50 ft,1500,2,2 BHK,2,3850000
+112,Karnataka,Mysuru,Hebbal,Outskirts,North,30 x 50 ft,1500,4,4 BHK,1,4340000
+113,Karnataka,Mysuru,Hebbal,Outskirts,East,40 x 60 ft,2400,5,5 BHK,3,6880000
+114,Karnataka,Mysuru,Hebbal,Outskirts,South,50 x 80 ft,4000,5,5 BHK,2,11160000
+115,Karnataka,Mysuru,Hebbal,Outskirts,East,30 x 40 ft,1200,5,5 BHK,3,3860000
+116,Karnataka,Mysuru,Hebbal,Outskirts,South,30 x 50 ft,1500,2,2 BHK,2,3870000
+117,Karnataka,Mysuru,Hebbal,Outskirts,East,30 x 40 ft,1200,4,4 BHK,1,3430000
+118,Karnataka,Mysuru,Hebbal,Outskirts,South,50 x 80 ft,4000,2,2 BHK,1,10530000
+119,Karnataka,Mysuru,Hebbal,Outskirts,East,30 x 40 ft,1200,5,5 BHK,1,3570000
+120,Karnataka,Mysuru,Hebbal,Outskirts,East,50 x 80 ft,4000,1,1 BHK,1,10360000
+121,Karnataka,Mangaluru,Hampankatta,City Center,East,20 x 30 ft,600,5,5 BHK,2,3830000
+122,Karnataka,Mangaluru,Hampankatta,City Center,South,50 x 80 ft,4000,4,4 BHK,2,21020000
+123,Karnataka,Mangaluru,Hampankatta,City Center,North,30 x 40 ft,1200,3,3 BHK,3,6410000
+124,Karnataka,Mangaluru,Hampankatta,City Center,West,50 x 80 ft,4000,2,2 BHK,2,19400000
+125,Karnataka,Mangaluru,Hampankatta,City Center,North,50 x 80 ft,4000,1,1 BHK,1,20650000
+126,Karnataka,Mangaluru,Hampankatta,City Center,North,40 x 60 ft,2400,1,1 BHK,1,12120000
+127,Karnataka,Mangaluru,Hampankatta,City Center,North,20 x 30 ft,600,5,5 BHK,2,3860000
+128,Karnataka,Mangaluru,Hampankatta,City Center,South,50 x 80 ft,4000,5,5 BHK,3,21560000
+129,Karnataka,Mangaluru,Hampankatta,City Center,East,50 x 80 ft,4000,3,3 BHK,1,19940000
+130,Karnataka,Mangaluru,Hampankatta,City Center,North,40 x 60 ft,2400,1,1 BHK,1,11740000
+131,Karnataka,Mangaluru,Hampankatta,City Center,West,20 x 30 ft,600,5,5 BHK,2,3780000
+132,Karnataka,Mangaluru,Hampankatta,City Center,West,20 x 30 ft,600,3,3 BHK,2,3610000
+133,Karnataka,Mangaluru,Hampankatta,City Center,West,40 x 60 ft,2400,4,4 BHK,1,12320000
+134,Karnataka,Mangaluru,Hampankatta,City Center,West,40 x 60 ft,2400,2,2 BHK,2,11970000
+135,Karnataka,Mangaluru,Hampankatta,City Center,East,40 x 60 ft,2400,5,5 BHK,1,12440000
+136,Karnataka,Mangaluru,Hampankatta,City Center,North,20 x 30 ft,600,1,1 BHK,1,3120000
+137,Karnataka,Mangaluru,Hampankatta,City Center,North,40 x 60 ft,2400,5,5 BHK,1,13270000
+138,Karnataka,Mangaluru,Hampankatta,City Center,South,30 x 40 ft,1200,3,3 BHK,1,6520000
+139,Karnataka,Mangaluru,Hampankatta,City Center,East,30 x 40 ft,1200,2,2 BHK,2,6010000
+140,Karnataka,Mangaluru,Hampankatta,City Center,North,20 x 30 ft,600,1,1 BHK,1,3300000
+141,Karnataka,Mangaluru,Kankanady,Suburb,South,30 x 50 ft,1500,5,5 BHK,2,6300000
+142,Karnataka,Mangaluru,Kankanady,Suburb,South,30 x 50 ft,1500,3,3 BHK,1,6280000
+143,Karnataka,Mangaluru,Kankanady,Suburb,West,20 x 30 ft,600,3,3 BHK,3,2640000
+144,Karnataka,Mangaluru,Kankanady,Suburb,South,40 x 60 ft,2400,1,1 BHK,1,9610000
+145,Karnataka,Mangaluru,Kankanady,Suburb,North,30 x 50 ft,1500,5,5 BHK,3,6550000
+146,Karnataka,Mangaluru,Kankanady,Suburb,South,30 x 40 ft,1200,2,2 BHK,2,4680000
+147,Karnataka,Mangaluru,Kankanady,Suburb,West,20 x 30 ft,600,1,1 BHK,1,2350000
+148,Karnataka,Mangaluru,Kankanady,Suburb,West,20 x 30 ft,600,1,1 BHK,1,2370000
+149,Karnataka,Mangaluru,Kankanady,Suburb,East,30 x 40 ft,1200,2,2 BHK,2,4790000
+150,Karnataka,Mangaluru,Kankanady,Suburb,North,30 x 50 ft,1500,2,2 BHK,1,5960000
+151,Karnataka,Mangaluru,Kankanady,Suburb,East,30 x 50 ft,1500,1,1 BHK,1,5560000
+152,Karnataka,Mangaluru,Kankanady,Suburb,East,50 x 80 ft,4000,5,5 BHK,2,16070000
+153,Karnataka,Mangaluru,Kankanady,Suburb,South,40 x 60 ft,2400,2,2 BHK,2,9400000
+154,Karnataka,Mangaluru,Kankanady,Suburb,North,30 x 50 ft,1500,3,3 BHK,3,6210000
+155,Karnataka,Mangaluru,Kankanady,Suburb,East,20 x 30 ft,600,4,4 BHK,2,2880000
+156,Karnataka,Mangaluru,Kankanady,Suburb,West,20 x 30 ft,600,5,5 BHK,1,2890000
+157,Karnataka,Mangaluru,Kankanady,Suburb,West,20 x 30 ft,600,2,2 BHK,1,2490000
+158,Karnataka,Mangaluru,Kankanady,Suburb,North,50 x 80 ft,4000,2,2 BHK,2,15290000
+159,Karnataka,Mangaluru,Kankanady,Suburb,North,30 x 50 ft,1500,3,3 BHK,3,5820000
+160,Karnataka,Mangaluru,Kankanady,Suburb,East,30 x 50 ft,1500,4,4 BHK,1,6470000
+161,Karnataka,Mangaluru,Surathkal,Outskirts,East,30 x 50 ft,1500,5,5 BHK,2,4920000
+162,Karnataka,Mangaluru,Surathkal,Outskirts,South,30 x 50 ft,1500,5,5 BHK,1,4800000
+163,Karnataka,Mangaluru,Surathkal,Outskirts,North,50 x 80 ft,4000,5,5 BHK,2,11300000
+164,Karnataka,Mangaluru,Surathkal,Outskirts,South,40 x 60 ft,2400,2,2 BHK,2,6810000
+165,Karnataka,Mangaluru,Surathkal,Outskirts,North,30 x 40 ft,1200,5,5 BHK,3,3860000
+166,Karnataka,Mangaluru,Surathkal,Outskirts,North,20 x 30 ft,600,3,3 BHK,3,2070000
+167,Karnataka,Mangaluru,Surathkal,Outskirts,East,30 x 40 ft,1200,4,4 BHK,1,3740000
+168,Karnataka,Mangaluru,Surathkal,Outskirts,West,50 x 80 ft,4000,4,4 BHK,3,11640000
+169,Karnataka,Mangaluru,Surathkal,Outskirts,South,30 x 40 ft,1200,4,4 BHK,3,3910000
+170,Karnataka,Mangaluru,Surathkal,Outskirts,East,50 x 80 ft,4000,2,2 BHK,2,10900000
+171,Karnataka,Mangaluru,Surathkal,Outskirts,South,30 x 50 ft,1500,3,3 BHK,3,4360000
+172,Karnataka,Mangaluru,Surathkal,Outskirts,North,30 x 40 ft,1200,3,3 BHK,3,3650000
+173,Karnataka,Mangaluru,Surathkal,Outskirts,North,50 x 80 ft,4000,4,4 BHK,2,11670000
+174,Karnataka,Mangaluru,Surathkal,Outskirts,West,30 x 40 ft,1200,4,4 BHK,1,4050000
+175,Karnataka,Mangaluru,Surathkal,Outskirts,North,20 x 30 ft,600,4,4 BHK,2,2320000
+176,Karnataka,Mangaluru,Surathkal,Outskirts,East,30 x 40 ft,1200,4,4 BHK,3,3990000
+177,Karnataka,Mangaluru,Surathkal,Outskirts,North,20 x 30 ft,600,4,4 BHK,3,2220000
+178,Karnataka,Mangaluru,Surathkal,Outskirts,East,40 x 60 ft,2400,2,2 BHK,2,6720000
+179,Karnataka,Mangaluru,Surathkal,Outskirts,South,50 x 80 ft,4000,5,5 BHK,1,11440000
+180,Karnataka,Mangaluru,Surathkal,Outskirts,South,50 x 80 ft,4000,4,4 BHK,2,11240000
+181,Tamil Nadu,Chennai,T Nagar,City Center,North,20 x 30 ft,600,3,3 BHK,3,5280000
+182,Tamil Nadu,Chennai,T Nagar,City Center,South,40 x 60 ft,2400,2,2 BHK,2,21460000
+183,Tamil Nadu,Chennai,T Nagar,City Center,East,20 x 30 ft,600,3,3 BHK,2,5790000
+184,Tamil Nadu,Chennai,T Nagar,City Center,North,30 x 50 ft,1500,2,2 BHK,2,13490000
+185,Tamil Nadu,Chennai,T Nagar,City Center,West,30 x 40 ft,1200,4,4 BHK,3,10480000
+186,Tamil Nadu,Chennai,T Nagar,City Center,South,20 x 30 ft,600,4,4 BHK,3,5820000
+187,Tamil Nadu,Chennai,T Nagar,City Center,East,50 x 80 ft,4000,3,3 BHK,3,34390000
+188,Tamil Nadu,Chennai,T Nagar,City Center,South,30 x 50 ft,1500,1,1 BHK,1,12690000
+189,Tamil Nadu,Chennai,T Nagar,City Center,South,50 x 80 ft,4000,2,2 BHK,2,33690000
+190,Tamil Nadu,Chennai,T Nagar,City Center,North,40 x 60 ft,2400,1,1 BHK,1,20920000
+191,Tamil Nadu,Chennai,T Nagar,City Center,East,20 x 30 ft,600,3,3 BHK,3,5530000
+192,Tamil Nadu,Chennai,T Nagar,City Center,West,30 x 50 ft,1500,1,1 BHK,1,13330000
+193,Tamil Nadu,Chennai,T Nagar,City Center,West,30 x 40 ft,1200,5,5 BHK,3,11430000
+194,Tamil Nadu,Chennai,T Nagar,City Center,South,30 x 50 ft,1500,3,3 BHK,1,13520000
+195,Tamil Nadu,Chennai,T Nagar,City Center,South,40 x 60 ft,2400,5,5 BHK,3,21770000
+196,Tamil Nadu,Chennai,T Nagar,City Center,East,40 x 60 ft,2400,3,3 BHK,1,20200000
+197,Tamil Nadu,Chennai,T Nagar,City Center,North,30 x 50 ft,1500,2,2 BHK,2,12870000
+198,Tamil Nadu,Chennai,T Nagar,City Center,East,30 x 40 ft,1200,1,1 BHK,1,10680000
+199,Tamil Nadu,Chennai,T Nagar,City Center,East,30 x 50 ft,1500,5,5 BHK,2,13550000
+200,Tamil Nadu,Chennai,T Nagar,City Center,East,20 x 30 ft,600,1,1 BHK,1,5460000
+201,Tamil Nadu,Chennai,Velachery,Suburb,South,30 x 40 ft,1200,5,5 BHK,3,8440000
+202,Tamil Nadu,Chennai,Velachery,Suburb,East,30 x 50 ft,1500,3,3 BHK,2,9650000
+203,Tamil Nadu,Chennai,Velachery,Suburb,West,50 x 80 ft,4000,1,1 BHK,1,26660000
+204,Tamil Nadu,Chennai,Velachery,Suburb,East,50 x 80 ft,4000,1,1 BHK,1,26180000
+205,Tamil Nadu,Chennai,Velachery,Suburb,North,20 x 30 ft,600,4,4 BHK,2,4520000
+206,Tamil Nadu,Chennai,Velachery,Suburb,North,30 x 50 ft,1500,2,2 BHK,1,9470000
+207,Tamil Nadu,Chennai,Velachery,Suburb,North,40 x 60 ft,2400,5,5 BHK,3,16530000
+208,Tamil Nadu,Chennai,Velachery,Suburb,East,50 x 80 ft,4000,4,4 BHK,1,26670000
+209,Tamil Nadu,Chennai,Velachery,Suburb,North,30 x 50 ft,1500,3,3 BHK,2,9760000
+210,Tamil Nadu,Chennai,Velachery,Suburb,South,40 x 60 ft,2400,3,3 BHK,2,16390000
+211,Tamil Nadu,Chennai,Velachery,Suburb,South,30 x 40 ft,1200,3,3 BHK,2,8170000
+212,Tamil Nadu,Chennai,Velachery,Suburb,West,30 x 40 ft,1200,1,1 BHK,1,7420000
+213,Tamil Nadu,Chennai,Velachery,Suburb,West,30 x 50 ft,1500,4,4 BHK,1,10590000
+214,Tamil Nadu,Chennai,Velachery,Suburb,South,30 x 40 ft,1200,1,1 BHK,1,7880000
+215,Tamil Nadu,Chennai,Velachery,Suburb,South,30 x 50 ft,1500,5,5 BHK,2,10760000
+216,Tamil Nadu,Chennai,Velachery,Suburb,South,30 x 50 ft,1500,1,1 BHK,1,9460000
+217,Tamil Nadu,Chennai,Velachery,Suburb,East,40 x 60 ft,2400,1,1 BHK,1,16020000
+218,Tamil Nadu,Chennai,Velachery,Suburb,North,30 x 50 ft,1500,5,5 BHK,3,9850000
+219,Tamil Nadu,Chennai,Velachery,Suburb,North,30 x 40 ft,1200,4,4 BHK,1,7840000
+220,Tamil Nadu,Chennai,Velachery,Suburb,South,30 x 50 ft,1500,4,4 BHK,1,10530000
+221,Tamil Nadu,Chennai,Tambaram,Outskirts,North,30 x 40 ft,1200,2,2 BHK,2,6050000
+222,Tamil Nadu,Chennai,Tambaram,Outskirts,West,30 x 50 ft,1500,3,3 BHK,3,7190000
+223,Tamil Nadu,Chennai,Tambaram,Outskirts,North,20 x 30 ft,600,4,4 BHK,2,3250000
+224,Tamil Nadu,Chennai,Tambaram,Outskirts,South,20 x 30 ft,600,5,5 BHK,3,3480000
+225,Tamil Nadu,Chennai,Tambaram,Outskirts,North,40 x 60 ft,2400,2,2 BHK,1,11540000
+226,Tamil Nadu,Chennai,Tambaram,Outskirts,South,40 x 60 ft,2400,1,1 BHK,1,11440000
+227,Tamil Nadu,Chennai,Tambaram,Outskirts,West,40 x 60 ft,2400,5,5 BHK,1,11730000
+228,Tamil Nadu,Chennai,Tambaram,Outskirts,South,50 x 80 ft,4000,3,3 BHK,3,19720000
+229,Tamil Nadu,Chennai,Tambaram,Outskirts,West,50 x 80 ft,4000,1,1 BHK,1,18620000
+230,Tamil Nadu,Chennai,Tambaram,Outskirts,East,30 x 50 ft,1500,2,2 BHK,1,7510000
+231,Tamil Nadu,Chennai,Tambaram,Outskirts,South,30 x 40 ft,1200,2,2 BHK,2,5870000
+232,Tamil Nadu,Chennai,Tambaram,Outskirts,East,30 x 50 ft,1500,4,4 BHK,1,7490000
+233,Tamil Nadu,Chennai,Tambaram,Outskirts,South,30 x 50 ft,1500,2,2 BHK,2,7600000
+234,Tamil Nadu,Chennai,Tambaram,Outskirts,West,40 x 60 ft,2400,1,1 BHK,1,11910000
+235,Tamil Nadu,Chennai,Tambaram,Outskirts,East,30 x 40 ft,1200,5,5 BHK,1,6390000
+236,Tamil Nadu,Chennai,Tambaram,Outskirts,North,30 x 50 ft,1500,5,5 BHK,2,7640000
+237,Tamil Nadu,Chennai,Tambaram,Outskirts,West,30 x 50 ft,1500,3,3 BHK,1,7500000
+238,Tamil Nadu,Chennai,Tambaram,Outskirts,South,30 x 40 ft,1200,3,3 BHK,2,6120000
+239,Tamil Nadu,Chennai,Tambaram,Outskirts,South,30 x 50 ft,1500,4,4 BHK,1,7340000
+240,Tamil Nadu,Chennai,Tambaram,Outskirts,North,30 x 40 ft,1200,2,2 BHK,2,6050000
+241,Tamil Nadu,Coimbatore,RS Puram,City Center,West,30 x 50 ft,1500,5,5 BHK,3,8320000
+242,Tamil Nadu,Coimbatore,RS Puram,City Center,West,30 x 40 ft,1200,2,2 BHK,1,6500000
+243,Tamil Nadu,Coimbatore,RS Puram,City Center,East,30 x 50 ft,1500,2,2 BHK,2,7710000
+244,Tamil Nadu,Coimbatore,RS Puram,City Center,West,40 x 60 ft,2400,4,4 BHK,1,12400000
+245,Tamil Nadu,Coimbatore,RS Puram,City Center,West,20 x 30 ft,600,2,2 BHK,1,3230000
+246,Tamil Nadu,Coimbatore,RS Puram,City Center,West,30 x 40 ft,1200,4,4 BHK,1,6840000
+247,Tamil Nadu,Coimbatore,RS Puram,City Center,South,30 x 50 ft,1500,1,1 BHK,1,7280000
+248,Tamil Nadu,Coimbatore,RS Puram,City Center,North,20 x 30 ft,600,2,2 BHK,1,3270000
+249,Tamil Nadu,Coimbatore,RS Puram,City Center,North,30 x 50 ft,1500,4,4 BHK,2,8120000
+250,Tamil Nadu,Coimbatore,RS Puram,City Center,West,30 x 40 ft,1200,5,5 BHK,3,6970000
+251,Tamil Nadu,Coimbatore,RS Puram,City Center,North,50 x 80 ft,4000,2,2 BHK,1,19840000
+252,Tamil Nadu,Coimbatore,RS Puram,City Center,East,50 x 80 ft,4000,1,1 BHK,1,20810000
+253,Tamil Nadu,Coimbatore,RS Puram,City Center,North,50 x 80 ft,4000,2,2 BHK,2,19560000
+254,Tamil Nadu,Coimbatore,RS Puram,City Center,East,30 x 50 ft,1500,2,2 BHK,1,7930000
+255,Tamil Nadu,Coimbatore,RS Puram,City Center,West,30 x 40 ft,1200,5,5 BHK,1,6700000
+256,Tamil Nadu,Coimbatore,RS Puram,City Center,East,30 x 40 ft,1200,2,2 BHK,2,6450000
+257,Tamil Nadu,Coimbatore,RS Puram,City Center,North,50 x 80 ft,4000,4,4 BHK,3,20080000
+258,Tamil Nadu,Coimbatore,RS Puram,City Center,West,30 x 50 ft,1500,3,3 BHK,1,8130000
+259,Tamil Nadu,Coimbatore,RS Puram,City Center,South,30 x 50 ft,1500,2,2 BHK,2,7930000
+260,Tamil Nadu,Coimbatore,RS Puram,City Center,West,50 x 80 ft,4000,1,1 BHK,1,19210000
+261,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,East,30 x 50 ft,1500,3,3 BHK,3,6290000
+262,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,South,50 x 80 ft,4000,3,3 BHK,2,15640000
+263,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,North,50 x 80 ft,4000,1,1 BHK,1,14930000
+264,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,North,20 x 30 ft,600,5,5 BHK,3,3030000
+265,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,West,30 x 50 ft,1500,3,3 BHK,2,6260000
+266,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,East,30 x 50 ft,1500,2,2 BHK,2,5820000
+267,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,North,30 x 50 ft,1500,1,1 BHK,1,5940000
+268,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,East,20 x 30 ft,600,4,4 BHK,2,2980000
+269,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,West,50 x 80 ft,4000,1,1 BHK,1,15490000
+270,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,East,20 x 30 ft,600,2,2 BHK,1,2590000
+271,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,West,30 x 40 ft,1200,1,1 BHK,1,4730000
+272,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,South,30 x 40 ft,1200,1,1 BHK,1,4680000
+273,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,West,30 x 40 ft,1200,5,5 BHK,3,5140000
+274,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,East,30 x 40 ft,1200,3,3 BHK,3,5100000
+275,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,East,40 x 60 ft,2400,3,3 BHK,2,9470000
+276,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,North,20 x 30 ft,600,3,3 BHK,1,2590000
+277,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,East,30 x 50 ft,1500,2,2 BHK,2,5870000
+278,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,North,20 x 30 ft,600,4,4 BHK,1,2900000
+279,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,South,30 x 40 ft,1200,1,1 BHK,1,4700000
+280,Tamil Nadu,Coimbatore,Saravanampatti,Suburb,East,30 x 40 ft,1200,3,3 BHK,2,5190000
+281,Tamil Nadu,Coimbatore,Singanallur,Outskirts,East,50 x 80 ft,4000,5,5 BHK,2,12270000
+282,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,30 x 50 ft,1500,4,4 BHK,1,4850000
+283,Tamil Nadu,Coimbatore,Singanallur,Outskirts,West,50 x 80 ft,4000,4,4 BHK,1,11690000
+284,Tamil Nadu,Coimbatore,Singanallur,Outskirts,East,20 x 30 ft,600,2,2 BHK,2,1930000
+285,Tamil Nadu,Coimbatore,Singanallur,Outskirts,East,40 x 60 ft,2400,5,5 BHK,1,7160000
+286,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,50 x 80 ft,4000,2,2 BHK,2,11000000
+287,Tamil Nadu,Coimbatore,Singanallur,Outskirts,East,20 x 30 ft,600,5,5 BHK,2,2290000
+288,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,20 x 30 ft,600,1,1 BHK,1,1880000
+289,Tamil Nadu,Coimbatore,Singanallur,Outskirts,East,50 x 80 ft,4000,3,3 BHK,2,12000000
+290,Tamil Nadu,Coimbatore,Singanallur,Outskirts,West,30 x 50 ft,1500,5,5 BHK,2,4710000
+291,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,40 x 60 ft,2400,3,3 BHK,1,7160000
+292,Tamil Nadu,Coimbatore,Singanallur,Outskirts,South,30 x 50 ft,1500,5,5 BHK,2,4740000
+293,Tamil Nadu,Coimbatore,Singanallur,Outskirts,East,20 x 30 ft,600,2,2 BHK,1,1890000
+294,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,50 x 80 ft,4000,5,5 BHK,2,12300000
+295,Tamil Nadu,Coimbatore,Singanallur,Outskirts,East,20 x 30 ft,600,3,3 BHK,2,2110000
+296,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,30 x 40 ft,1200,3,3 BHK,2,3750000
+297,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,30 x 50 ft,1500,3,3 BHK,2,4630000
+298,Tamil Nadu,Coimbatore,Singanallur,Outskirts,East,20 x 30 ft,600,1,1 BHK,1,1860000
+299,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,20 x 30 ft,600,3,3 BHK,3,2020000
+300,Tamil Nadu,Coimbatore,Singanallur,Outskirts,North,30 x 50 ft,1500,1,1 BHK,1,4430000
+301,Kerala,Kochi,Ernakulam South,City Center,West,20 x 30 ft,600,5,5 BHK,3,4170000
+302,Kerala,Kochi,Ernakulam South,City Center,South,40 x 60 ft,2400,3,3 BHK,1,14180000
+303,Kerala,Kochi,Ernakulam South,City Center,North,50 x 80 ft,4000,4,4 BHK,1,25570000
+304,Kerala,Kochi,Ernakulam South,City Center,North,20 x 30 ft,600,2,2 BHK,1,3890000
+305,Kerala,Kochi,Ernakulam South,City Center,South,30 x 50 ft,1500,2,2 BHK,2,9160000
+306,Kerala,Kochi,Ernakulam South,City Center,West,30 x 50 ft,1500,5,5 BHK,1,9980000
+307,Kerala,Kochi,Ernakulam South,City Center,West,30 x 50 ft,1500,4,4 BHK,1,9270000
+308,Kerala,Kochi,Ernakulam South,City Center,North,20 x 30 ft,600,5,5 BHK,3,4240000
+309,Kerala,Kochi,Ernakulam South,City Center,West,30 x 40 ft,1200,4,4 BHK,3,7960000
+310,Kerala,Kochi,Ernakulam South,City Center,East,50 x 80 ft,4000,3,3 BHK,1,25360000
+311,Kerala,Kochi,Ernakulam South,City Center,East,30 x 40 ft,1200,2,2 BHK,2,7300000
+312,Kerala,Kochi,Ernakulam South,City Center,North,30 x 40 ft,1200,4,4 BHK,2,8060000
+313,Kerala,Kochi,Ernakulam South,City Center,North,40 x 60 ft,2400,2,2 BHK,1,14870000
+314,Kerala,Kochi,Ernakulam South,City Center,West,20 x 30 ft,600,1,1 BHK,1,3700000
+315,Kerala,Kochi,Ernakulam South,City Center,East,50 x 80 ft,4000,3,3 BHK,2,23920000
+316,Kerala,Kochi,Ernakulam South,City Center,West,30 x 40 ft,1200,1,1 BHK,1,7230000
+317,Kerala,Kochi,Ernakulam South,City Center,West,50 x 80 ft,4000,5,5 BHK,2,25830000
+318,Kerala,Kochi,Ernakulam South,City Center,West,40 x 60 ft,2400,2,2 BHK,2,14210000
+319,Kerala,Kochi,Ernakulam South,City Center,South,20 x 30 ft,600,2,2 BHK,2,3840000
+320,Kerala,Kochi,Ernakulam South,City Center,East,30 x 50 ft,1500,2,2 BHK,2,9760000
+321,Kerala,Kochi,Edappally,Suburb,North,50 x 80 ft,4000,4,4 BHK,3,17910000
+322,Kerala,Kochi,Edappally,Suburb,East,40 x 60 ft,2400,5,5 BHK,3,11920000
+323,Kerala,Kochi,Edappally,Suburb,South,30 x 50 ft,1500,3,3 BHK,2,6840000
+324,Kerala,Kochi,Edappally,Suburb,North,30 x 40 ft,1200,5,5 BHK,1,5910000
+325,Kerala,Kochi,Edappally,Suburb,South,50 x 80 ft,4000,5,5 BHK,3,18230000
+326,Kerala,Kochi,Edappally,Suburb,South,40 x 60 ft,2400,3,3 BHK,3,11660000
+327,Kerala,Kochi,Edappally,Suburb,West,40 x 60 ft,2400,4,4 BHK,1,11910000
+328,Kerala,Kochi,Edappally,Suburb,North,50 x 80 ft,4000,3,3 BHK,2,18930000
+329,Kerala,Kochi,Edappally,Suburb,South,30 x 50 ft,1500,3,3 BHK,1,7070000
+330,Kerala,Kochi,Edappally,Suburb,North,30 x 40 ft,1200,5,5 BHK,3,5860000
+331,Kerala,Kochi,Edappally,Suburb,East,40 x 60 ft,2400,2,2 BHK,2,11070000
+332,Kerala,Kochi,Edappally,Suburb,West,40 x 60 ft,2400,1,1 BHK,1,10500000
+333,Kerala,Kochi,Edappally,Suburb,West,30 x 50 ft,1500,2,2 BHK,2,7140000
+334,Kerala,Kochi,Edappally,Suburb,South,40 x 60 ft,2400,5,5 BHK,2,11680000
+335,Kerala,Kochi,Edappally,Suburb,West,20 x 30 ft,600,1,1 BHK,1,2900000
+336,Kerala,Kochi,Edappally,Suburb,North,20 x 30 ft,600,1,1 BHK,1,2890000
+337,Kerala,Kochi,Edappally,Suburb,North,50 x 80 ft,4000,2,2 BHK,2,19190000
+338,Kerala,Kochi,Edappally,Suburb,South,50 x 80 ft,4000,2,2 BHK,2,18100000
+339,Kerala,Kochi,Edappally,Suburb,South,30 x 50 ft,1500,5,5 BHK,1,7770000
+340,Kerala,Kochi,Edappally,Suburb,North,20 x 30 ft,600,3,3 BHK,2,3230000
+341,Kerala,Kochi,Kakkanad,Outskirts,East,20 x 30 ft,600,4,4 BHK,1,2600000
+342,Kerala,Kochi,Kakkanad,Outskirts,West,40 x 60 ft,2400,4,4 BHK,1,8570000
+343,Kerala,Kochi,Kakkanad,Outskirts,North,30 x 40 ft,1200,4,4 BHK,1,4570000
+344,Kerala,Kochi,Kakkanad,Outskirts,West,20 x 30 ft,600,5,5 BHK,2,2600000
+345,Kerala,Kochi,Kakkanad,Outskirts,South,30 x 40 ft,1200,2,2 BHK,2,4290000
+346,Kerala,Kochi,Kakkanad,Outskirts,East,30 x 40 ft,1200,2,2 BHK,2,4130000
+347,Kerala,Kochi,Kakkanad,Outskirts,East,40 x 60 ft,2400,1,1 BHK,1,7770000
+348,Kerala,Kochi,Kakkanad,Outskirts,North,20 x 30 ft,600,1,1 BHK,1,2150000
+349,Kerala,Kochi,Kakkanad,Outskirts,West,30 x 40 ft,1200,4,4 BHK,2,4620000
+350,Kerala,Kochi,Kakkanad,Outskirts,South,30 x 50 ft,1500,3,3 BHK,2,5570000
+351,Kerala,Kochi,Kakkanad,Outskirts,South,30 x 50 ft,1500,1,1 BHK,1,5070000
+352,Kerala,Kochi,Kakkanad,Outskirts,East,40 x 60 ft,2400,4,4 BHK,1,8500000
+353,Kerala,Kochi,Kakkanad,Outskirts,North,30 x 40 ft,1200,3,3 BHK,3,4400000
+354,Kerala,Kochi,Kakkanad,Outskirts,West,50 x 80 ft,4000,5,5 BHK,3,13310000
+355,Kerala,Kochi,Kakkanad,Outskirts,West,30 x 40 ft,1200,2,2 BHK,2,4140000
+356,Kerala,Kochi,Kakkanad,Outskirts,East,20 x 30 ft,600,3,3 BHK,3,2330000
+357,Kerala,Kochi,Kakkanad,Outskirts,East,30 x 50 ft,1500,5,5 BHK,1,5650000
+358,Kerala,Kochi,Kakkanad,Outskirts,East,20 x 30 ft,600,4,4 BHK,1,2680000
+359,Kerala,Kochi,Kakkanad,Outskirts,West,30 x 40 ft,1200,5,5 BHK,1,4640000
+360,Kerala,Kochi,Kakkanad,Outskirts,West,40 x 60 ft,2400,4,4 BHK,2,8830000
+361,Kerala,Thiruvananthapuram,Pattom,City Center,West,20 x 30 ft,600,4,4 BHK,2,3800000
+362,Kerala,Thiruvananthapuram,Pattom,City Center,South,40 x 60 ft,2400,2,2 BHK,2,13290000
+363,Kerala,Thiruvananthapuram,Pattom,City Center,North,30 x 40 ft,1200,3,3 BHK,3,6550000
+364,Kerala,Thiruvananthapuram,Pattom,City Center,North,40 x 60 ft,2400,3,3 BHK,1,12890000
+365,Kerala,Thiruvananthapuram,Pattom,City Center,West,20 x 30 ft,600,3,3 BHK,2,3650000
+366,Kerala,Thiruvananthapuram,Pattom,City Center,East,30 x 40 ft,1200,4,4 BHK,2,7160000
+367,Kerala,Thiruvananthapuram,Pattom,City Center,South,50 x 80 ft,4000,5,5 BHK,2,21530000
+368,Kerala,Thiruvananthapuram,Pattom,City Center,East,40 x 60 ft,2400,5,5 BHK,3,13350000
+369,Kerala,Thiruvananthapuram,Pattom,City Center,North,20 x 30 ft,600,4,4 BHK,2,3570000
+370,Kerala,Thiruvananthapuram,Pattom,City Center,East,30 x 50 ft,1500,1,1 BHK,1,7870000
+371,Kerala,Thiruvananthapuram,Pattom,City Center,West,50 x 80 ft,4000,5,5 BHK,3,21740000
+372,Kerala,Thiruvananthapuram,Pattom,City Center,East,40 x 60 ft,2400,5,5 BHK,3,13170000
+373,Kerala,Thiruvananthapuram,Pattom,City Center,South,30 x 40 ft,1200,3,3 BHK,2,6470000
+374,Kerala,Thiruvananthapuram,Pattom,City Center,North,50 x 80 ft,4000,2,2 BHK,2,20350000
+375,Kerala,Thiruvananthapuram,Pattom,City Center,South,40 x 60 ft,2400,3,3 BHK,1,12610000
+376,Kerala,Thiruvananthapuram,Pattom,City Center,East,40 x 60 ft,2400,4,4 BHK,1,13220000
+377,Kerala,Thiruvananthapuram,Pattom,City Center,West,50 x 80 ft,4000,4,4 BHK,1,22000000
+378,Kerala,Thiruvananthapuram,Pattom,City Center,West,40 x 60 ft,2400,4,4 BHK,3,13560000
+379,Kerala,Thiruvananthapuram,Pattom,City Center,North,30 x 50 ft,1500,5,5 BHK,2,8970000
+380,Kerala,Thiruvananthapuram,Pattom,City Center,East,50 x 80 ft,4000,4,4 BHK,2,20410000
+381,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,North,30 x 50 ft,1500,5,5 BHK,1,6330000
+382,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,West,20 x 30 ft,600,3,3 BHK,2,2840000
+383,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,South,50 x 80 ft,4000,2,2 BHK,2,15110000
+384,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,East,20 x 30 ft,600,2,2 BHK,1,2740000
+385,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,West,30 x 50 ft,1500,2,2 BHK,2,6250000
+386,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,East,50 x 80 ft,4000,4,4 BHK,2,15720000
+387,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,North,30 x 40 ft,1200,5,5 BHK,1,5560000
+388,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,South,50 x 80 ft,4000,2,2 BHK,1,16440000
+389,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,North,30 x 50 ft,1500,2,2 BHK,2,6150000
+390,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,South,30 x 40 ft,1200,1,1 BHK,1,5040000
+391,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,West,40 x 60 ft,2400,1,1 BHK,1,9240000
+392,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,West,50 x 80 ft,4000,5,5 BHK,1,15710000
+393,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,North,30 x 40 ft,1200,2,2 BHK,2,4890000
+394,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,North,20 x 30 ft,600,1,1 BHK,1,2560000
+395,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,South,20 x 30 ft,600,3,3 BHK,2,2760000
+396,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,North,40 x 60 ft,2400,3,3 BHK,2,10200000
+397,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,West,20 x 30 ft,600,3,3 BHK,1,2880000
+398,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,South,20 x 30 ft,600,5,5 BHK,3,3130000
+399,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,North,50 x 80 ft,4000,3,3 BHK,1,15970000
+400,Kerala,Thiruvananthapuram,Kazhakkoottam,Suburb,East,20 x 30 ft,600,3,3 BHK,2,2670000
+401,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,North,30 x 40 ft,1200,2,2 BHK,2,3730000
+402,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,North,30 x 40 ft,1200,2,2 BHK,2,3890000
+403,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,North,30 x 40 ft,1200,1,1 BHK,1,3550000
+404,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,East,40 x 60 ft,2400,4,4 BHK,3,7390000
+405,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,North,30 x 40 ft,1200,4,4 BHK,3,4040000
+406,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,East,30 x 50 ft,1500,5,5 BHK,3,4910000
+407,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,East,30 x 50 ft,1500,4,4 BHK,1,4880000
+408,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,East,30 x 40 ft,1200,5,5 BHK,1,4090000
+409,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,South,50 x 80 ft,4000,4,4 BHK,3,12140000
+410,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,West,40 x 60 ft,2400,2,2 BHK,2,7000000
+411,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,East,30 x 40 ft,1200,1,1 BHK,1,3470000
+412,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,East,40 x 60 ft,2400,2,2 BHK,2,7180000
+413,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,West,20 x 30 ft,600,2,2 BHK,1,1970000
+414,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,North,40 x 60 ft,2400,4,4 BHK,2,7690000
+415,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,North,40 x 60 ft,2400,5,5 BHK,2,7320000
+416,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,East,50 x 80 ft,4000,4,4 BHK,1,12390000
+417,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,West,30 x 40 ft,1200,2,2 BHK,1,3860000
+418,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,South,20 x 30 ft,600,2,2 BHK,2,2070000
+419,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,South,30 x 50 ft,1500,4,4 BHK,3,4970000
+420,Kerala,Thiruvananthapuram,Neyyattinkara,Outskirts,South,30 x 50 ft,1500,4,4 BHK,2,4870000
+421,Maharashtra,Mumbai,Bandra,City Center,North,50 x 80 ft,4000,1,1 BHK,1,74810000
+422,Maharashtra,Mumbai,Bandra,City Center,East,50 x 80 ft,4000,1,1 BHK,1,68710000
+423,Maharashtra,Mumbai,Bandra,City Center,South,30 x 50 ft,1500,4,4 BHK,3,27730000
+424,Maharashtra,Mumbai,Bandra,City Center,North,20 x 30 ft,600,5,5 BHK,1,11040000
+425,Maharashtra,Mumbai,Bandra,City Center,East,30 x 40 ft,1200,3,3 BHK,3,22480000
+426,Maharashtra,Mumbai,Bandra,City Center,East,30 x 40 ft,1200,5,5 BHK,3,22850000
+427,Maharashtra,Mumbai,Bandra,City Center,West,40 x 60 ft,2400,3,3 BHK,2,42940000
+428,Maharashtra,Mumbai,Bandra,City Center,East,50 x 80 ft,4000,4,4 BHK,1,75460000
+429,Maharashtra,Mumbai,Bandra,City Center,East,20 x 30 ft,600,1,1 BHK,1,10780000
+430,Maharashtra,Mumbai,Bandra,City Center,West,40 x 60 ft,2400,5,5 BHK,1,45410000
+431,Maharashtra,Mumbai,Bandra,City Center,West,50 x 80 ft,4000,4,4 BHK,3,73620000
+432,Maharashtra,Mumbai,Bandra,City Center,South,30 x 40 ft,1200,3,3 BHK,2,21460000
+433,Maharashtra,Mumbai,Bandra,City Center,South,30 x 50 ft,1500,2,2 BHK,2,26970000
+434,Maharashtra,Mumbai,Bandra,City Center,West,20 x 30 ft,600,3,3 BHK,2,11190000
+435,Maharashtra,Mumbai,Bandra,City Center,East,40 x 60 ft,2400,2,2 BHK,1,42090000
+436,Maharashtra,Mumbai,Bandra,City Center,East,20 x 30 ft,600,2,2 BHK,2,11010000
+437,Maharashtra,Mumbai,Bandra,City Center,North,40 x 60 ft,2400,1,1 BHK,1,45200000
+438,Maharashtra,Mumbai,Bandra,City Center,West,40 x 60 ft,2400,3,3 BHK,2,45800000
+439,Maharashtra,Mumbai,Bandra,City Center,West,40 x 60 ft,2400,1,1 BHK,1,44090000
+440,Maharashtra,Mumbai,Bandra,City Center,South,30 x 40 ft,1200,1,1 BHK,1,22460000
+441,Maharashtra,Mumbai,Thane,Suburb,North,40 x 60 ft,2400,2,2 BHK,1,31180000
+442,Maharashtra,Mumbai,Thane,Suburb,South,30 x 40 ft,1200,5,5 BHK,2,16750000
+443,Maharashtra,Mumbai,Thane,Suburb,East,30 x 50 ft,1500,1,1 BHK,1,20420000
+444,Maharashtra,Mumbai,Thane,Suburb,East,40 x 60 ft,2400,2,2 BHK,2,32750000
+445,Maharashtra,Mumbai,Thane,Suburb,West,30 x 50 ft,1500,4,4 BHK,1,20620000
+446,Maharashtra,Mumbai,Thane,Suburb,East,20 x 30 ft,600,2,2 BHK,2,8670000
+447,Maharashtra,Mumbai,Thane,Suburb,North,30 x 40 ft,1200,3,3 BHK,3,16320000
+448,Maharashtra,Mumbai,Thane,Suburb,East,50 x 80 ft,4000,3,3 BHK,2,52560000
+449,Maharashtra,Mumbai,Thane,Suburb,North,30 x 40 ft,1200,4,4 BHK,2,17040000
+450,Maharashtra,Mumbai,Thane,Suburb,West,30 x 40 ft,1200,1,1 BHK,1,16940000
+451,Maharashtra,Mumbai,Thane,Suburb,South,20 x 30 ft,600,5,5 BHK,3,9250000
+452,Maharashtra,Mumbai,Thane,Suburb,North,20 x 30 ft,600,5,5 BHK,1,8520000
+453,Maharashtra,Mumbai,Thane,Suburb,North,30 x 40 ft,1200,4,4 BHK,1,16350000
+454,Maharashtra,Mumbai,Thane,Suburb,West,40 x 60 ft,2400,4,4 BHK,1,34440000
+455,Maharashtra,Mumbai,Thane,Suburb,North,30 x 40 ft,1200,5,5 BHK,3,17190000
+456,Maharashtra,Mumbai,Thane,Suburb,East,30 x 50 ft,1500,2,2 BHK,2,19830000
+457,Maharashtra,Mumbai,Thane,Suburb,South,50 x 80 ft,4000,3,3 BHK,2,54230000
+458,Maharashtra,Mumbai,Thane,Suburb,East,30 x 50 ft,1500,2,2 BHK,1,20800000
+459,Maharashtra,Mumbai,Thane,Suburb,North,20 x 30 ft,600,3,3 BHK,1,8240000
+460,Maharashtra,Mumbai,Thane,Suburb,West,40 x 60 ft,2400,3,3 BHK,3,33480000
+461,Maharashtra,Mumbai,Virar,Outskirts,North,20 x 30 ft,600,4,4 BHK,3,6360000
+462,Maharashtra,Mumbai,Virar,Outskirts,West,40 x 60 ft,2400,4,4 BHK,1,24660000
+463,Maharashtra,Mumbai,Virar,Outskirts,North,30 x 40 ft,1200,5,5 BHK,3,12570000
+464,Maharashtra,Mumbai,Virar,Outskirts,North,30 x 50 ft,1500,3,3 BHK,2,15800000
+465,Maharashtra,Mumbai,Virar,Outskirts,South,50 x 80 ft,4000,5,5 BHK,2,39340000
+466,Maharashtra,Mumbai,Virar,Outskirts,North,30 x 50 ft,1500,5,5 BHK,2,16050000
+467,Maharashtra,Mumbai,Virar,Outskirts,North,30 x 40 ft,1200,2,2 BHK,2,12320000
+468,Maharashtra,Mumbai,Virar,Outskirts,North,50 x 80 ft,4000,2,2 BHK,2,40420000
+469,Maharashtra,Mumbai,Virar,Outskirts,North,30 x 40 ft,1200,5,5 BHK,1,12050000
+470,Maharashtra,Mumbai,Virar,Outskirts,West,30 x 50 ft,1500,1,1 BHK,1,14930000
+471,Maharashtra,Mumbai,Virar,Outskirts,West,50 x 80 ft,4000,2,2 BHK,2,38500000
+472,Maharashtra,Mumbai,Virar,Outskirts,West,40 x 60 ft,2400,2,2 BHK,2,23760000
+473,Maharashtra,Mumbai,Virar,Outskirts,North,50 x 80 ft,4000,2,2 BHK,1,41720000
+474,Maharashtra,Mumbai,Virar,Outskirts,South,20 x 30 ft,600,1,1 BHK,1,6360000
+475,Maharashtra,Mumbai,Virar,Outskirts,South,40 x 60 ft,2400,5,5 BHK,1,25350000
+476,Maharashtra,Mumbai,Virar,Outskirts,West,40 x 60 ft,2400,5,5 BHK,3,24500000
+477,Maharashtra,Mumbai,Virar,Outskirts,East,30 x 50 ft,1500,1,1 BHK,1,15580000
+478,Maharashtra,Mumbai,Virar,Outskirts,North,50 x 80 ft,4000,3,3 BHK,1,41000000
+479,Maharashtra,Mumbai,Virar,Outskirts,North,50 x 80 ft,4000,5,5 BHK,1,41340000
+480,Maharashtra,Mumbai,Virar,Outskirts,North,50 x 80 ft,4000,3,3 BHK,3,38100000
+481,Maharashtra,Pune,Koregaon Park,City Center,West,40 x 60 ft,2400,5,5 BHK,2,19870000
+482,Maharashtra,Pune,Koregaon Park,City Center,East,30 x 50 ft,1500,4,4 BHK,3,13160000
+483,Maharashtra,Pune,Koregaon Park,City Center,North,40 x 60 ft,2400,3,3 BHK,3,19480000
+484,Maharashtra,Pune,Koregaon Park,City Center,West,30 x 40 ft,1200,4,4 BHK,1,9990000
+485,Maharashtra,Pune,Koregaon Park,City Center,East,20 x 30 ft,600,1,1 BHK,1,5030000
+486,Maharashtra,Pune,Koregaon Park,City Center,North,20 x 30 ft,600,4,4 BHK,2,5270000
+487,Maharashtra,Pune,Koregaon Park,City Center,East,20 x 30 ft,600,1,1 BHK,1,4940000
+488,Maharashtra,Pune,Koregaon Park,City Center,East,30 x 40 ft,1200,2,2 BHK,1,9530000
+489,Maharashtra,Pune,Koregaon Park,City Center,West,30 x 40 ft,1200,5,5 BHK,1,10790000
+490,Maharashtra,Pune,Koregaon Park,City Center,North,40 x 60 ft,2400,2,2 BHK,2,18610000
+491,Maharashtra,Pune,Koregaon Park,City Center,South,30 x 40 ft,1200,1,1 BHK,1,9630000
+492,Maharashtra,Pune,Koregaon Park,City Center,West,40 x 60 ft,2400,2,2 BHK,1,18840000
+493,Maharashtra,Pune,Koregaon Park,City Center,West,40 x 60 ft,2400,5,5 BHK,3,20720000
+494,Maharashtra,Pune,Koregaon Park,City Center,East,50 x 80 ft,4000,3,3 BHK,2,33480000
+495,Maharashtra,Pune,Koregaon Park,City Center,North,20 x 30 ft,600,4,4 BHK,1,5420000
+496,Maharashtra,Pune,Koregaon Park,City Center,West,50 x 80 ft,4000,5,5 BHK,2,33870000
+497,Maharashtra,Pune,Koregaon Park,City Center,North,40 x 60 ft,2400,3,3 BHK,2,20150000
+498,Maharashtra,Pune,Koregaon Park,City Center,North,40 x 60 ft,2400,5,5 BHK,1,19280000
+499,Maharashtra,Pune,Koregaon Park,City Center,East,50 x 80 ft,4000,4,4 BHK,3,34120000
+500,Maharashtra,Pune,Koregaon Park,City Center,North,30 x 50 ft,1500,4,4 BHK,1,12490000
+501,Maharashtra,Pune,Hinjewadi,Suburb,East,50 x 80 ft,4000,1,1 BHK,1,23660000
+502,Maharashtra,Pune,Hinjewadi,Suburb,North,50 x 80 ft,4000,4,4 BHK,3,25530000
+503,Maharashtra,Pune,Hinjewadi,Suburb,East,30 x 40 ft,1200,2,2 BHK,1,7680000
+504,Maharashtra,Pune,Hinjewadi,Suburb,South,20 x 30 ft,600,4,4 BHK,3,4160000
+505,Maharashtra,Pune,Hinjewadi,Suburb,West,30 x 40 ft,1200,3,3 BHK,1,7690000
+506,Maharashtra,Pune,Hinjewadi,Suburb,North,30 x 50 ft,1500,3,3 BHK,2,9310000
+507,Maharashtra,Pune,Hinjewadi,Suburb,South,20 x 30 ft,600,4,4 BHK,2,4350000
+508,Maharashtra,Pune,Hinjewadi,Suburb,South,40 x 60 ft,2400,1,1 BHK,1,14120000
+509,Maharashtra,Pune,Hinjewadi,Suburb,East,50 x 80 ft,4000,1,1 BHK,1,24770000
+510,Maharashtra,Pune,Hinjewadi,Suburb,North,30 x 50 ft,1500,5,5 BHK,2,9620000
+511,Maharashtra,Pune,Hinjewadi,Suburb,East,40 x 60 ft,2400,4,4 BHK,2,15580000
+512,Maharashtra,Pune,Hinjewadi,Suburb,West,30 x 40 ft,1200,5,5 BHK,2,7880000
+513,Maharashtra,Pune,Hinjewadi,Suburb,West,50 x 80 ft,4000,2,2 BHK,2,23490000
+514,Maharashtra,Pune,Hinjewadi,Suburb,West,20 x 30 ft,600,5,5 BHK,1,4390000
+515,Maharashtra,Pune,Hinjewadi,Suburb,East,50 x 80 ft,4000,3,3 BHK,1,24650000
+516,Maharashtra,Pune,Hinjewadi,Suburb,South,40 x 60 ft,2400,4,4 BHK,2,14980000
+517,Maharashtra,Pune,Hinjewadi,Suburb,East,30 x 40 ft,1200,3,3 BHK,3,7290000
+518,Maharashtra,Pune,Hinjewadi,Suburb,West,20 x 30 ft,600,3,3 BHK,2,4130000
+519,Maharashtra,Pune,Hinjewadi,Suburb,East,30 x 40 ft,1200,5,5 BHK,3,8210000
+520,Maharashtra,Pune,Hinjewadi,Suburb,East,50 x 80 ft,4000,4,4 BHK,2,24180000
+521,Maharashtra,Pune,Wagholi,Outskirts,East,20 x 30 ft,600,2,2 BHK,2,2860000
+522,Maharashtra,Pune,Wagholi,Outskirts,West,40 x 60 ft,2400,3,3 BHK,3,11560000
+523,Maharashtra,Pune,Wagholi,Outskirts,West,50 x 80 ft,4000,1,1 BHK,1,17990000
+524,Maharashtra,Pune,Wagholi,Outskirts,South,30 x 50 ft,1500,4,4 BHK,3,7370000
+525,Maharashtra,Pune,Wagholi,Outskirts,East,50 x 80 ft,4000,1,1 BHK,1,18600000
+526,Maharashtra,Pune,Wagholi,Outskirts,South,50 x 80 ft,4000,3,3 BHK,1,18200000
+527,Maharashtra,Pune,Wagholi,Outskirts,North,50 x 80 ft,4000,1,1 BHK,1,17390000
+528,Maharashtra,Pune,Wagholi,Outskirts,East,30 x 50 ft,1500,2,2 BHK,2,6850000
+529,Maharashtra,Pune,Wagholi,Outskirts,North,50 x 80 ft,4000,5,5 BHK,1,18310000
+530,Maharashtra,Pune,Wagholi,Outskirts,South,30 x 40 ft,1200,5,5 BHK,2,6110000
+531,Maharashtra,Pune,Wagholi,Outskirts,West,30 x 40 ft,1200,3,3 BHK,1,5890000
+532,Maharashtra,Pune,Wagholi,Outskirts,West,20 x 30 ft,600,4,4 BHK,1,3320000
+533,Maharashtra,Pune,Wagholi,Outskirts,West,20 x 30 ft,600,4,4 BHK,1,3100000
+534,Maharashtra,Pune,Wagholi,Outskirts,West,30 x 40 ft,1200,4,4 BHK,3,5730000
+535,Maharashtra,Pune,Wagholi,Outskirts,West,30 x 40 ft,1200,2,2 BHK,1,5730000
+536,Maharashtra,Pune,Wagholi,Outskirts,South,20 x 30 ft,600,5,5 BHK,3,3240000
+537,Maharashtra,Pune,Wagholi,Outskirts,North,30 x 50 ft,1500,1,1 BHK,1,6770000
+538,Maharashtra,Pune,Wagholi,Outskirts,East,30 x 50 ft,1500,2,2 BHK,2,7220000
+539,Maharashtra,Pune,Wagholi,Outskirts,West,50 x 80 ft,4000,2,2 BHK,2,17750000
+540,Maharashtra,Pune,Wagholi,Outskirts,North,20 x 30 ft,600,5,5 BHK,2,3550000
+541,Telangana,Hyderabad,Banjara Hills,City Center,East,30 x 50 ft,1500,2,2 BHK,1,12380000
+542,Telangana,Hyderabad,Banjara Hills,City Center,North,30 x 50 ft,1500,1,1 BHK,1,12280000
+543,Telangana,Hyderabad,Banjara Hills,City Center,West,50 x 80 ft,4000,1,1 BHK,1,31030000
+544,Telangana,Hyderabad,Banjara Hills,City Center,North,30 x 40 ft,1200,1,1 BHK,1,9930000
+545,Telangana,Hyderabad,Banjara Hills,City Center,South,20 x 30 ft,600,5,5 BHK,1,5750000
+546,Telangana,Hyderabad,Banjara Hills,City Center,North,30 x 50 ft,1500,1,1 BHK,1,12400000
+547,Telangana,Hyderabad,Banjara Hills,City Center,North,30 x 40 ft,1200,2,2 BHK,1,9830000
+548,Telangana,Hyderabad,Banjara Hills,City Center,West,30 x 40 ft,1200,1,1 BHK,1,9360000
+549,Telangana,Hyderabad,Banjara Hills,City Center,West,30 x 50 ft,1500,5,5 BHK,3,12810000
+550,Telangana,Hyderabad,Banjara Hills,City Center,East,40 x 60 ft,2400,3,3 BHK,2,20590000
+551,Telangana,Hyderabad,Banjara Hills,City Center,South,20 x 30 ft,600,5,5 BHK,2,5460000
+552,Telangana,Hyderabad,Banjara Hills,City Center,West,40 x 60 ft,2400,5,5 BHK,3,20710000
+553,Telangana,Hyderabad,Banjara Hills,City Center,West,30 x 50 ft,1500,5,5 BHK,1,12830000
+554,Telangana,Hyderabad,Banjara Hills,City Center,West,30 x 40 ft,1200,1,1 BHK,1,9800000
+555,Telangana,Hyderabad,Banjara Hills,City Center,East,30 x 50 ft,1500,4,4 BHK,1,12460000
+556,Telangana,Hyderabad,Banjara Hills,City Center,East,40 x 60 ft,2400,1,1 BHK,1,19120000
+557,Telangana,Hyderabad,Banjara Hills,City Center,South,50 x 80 ft,4000,3,3 BHK,3,31490000
+558,Telangana,Hyderabad,Banjara Hills,City Center,North,40 x 60 ft,2400,4,4 BHK,1,19950000
+559,Telangana,Hyderabad,Banjara Hills,City Center,South,20 x 30 ft,600,2,2 BHK,2,5070000
+560,Telangana,Hyderabad,Banjara Hills,City Center,North,40 x 60 ft,2400,2,2 BHK,2,19720000
+561,Telangana,Hyderabad,Gachibowli,Suburb,South,30 x 50 ft,1500,3,3 BHK,2,9140000
+562,Telangana,Hyderabad,Gachibowli,Suburb,West,20 x 30 ft,600,4,4 BHK,1,4000000
+563,Telangana,Hyderabad,Gachibowli,Suburb,South,50 x 80 ft,4000,4,4 BHK,3,24140000
+564,Telangana,Hyderabad,Gachibowli,Suburb,West,30 x 50 ft,1500,1,1 BHK,1,9150000
+565,Telangana,Hyderabad,Gachibowli,Suburb,South,20 x 30 ft,600,5,5 BHK,3,4190000
+566,Telangana,Hyderabad,Gachibowli,Suburb,East,50 x 80 ft,4000,2,2 BHK,2,25470000
+567,Telangana,Hyderabad,Gachibowli,Suburb,West,30 x 50 ft,1500,5,5 BHK,1,9350000
+568,Telangana,Hyderabad,Gachibowli,Suburb,South,20 x 30 ft,600,4,4 BHK,2,4080000
+569,Telangana,Hyderabad,Gachibowli,Suburb,North,50 x 80 ft,4000,3,3 BHK,1,24050000
+570,Telangana,Hyderabad,Gachibowli,Suburb,West,40 x 60 ft,2400,2,2 BHK,2,15010000
+571,Telangana,Hyderabad,Gachibowli,Suburb,West,20 x 30 ft,600,3,3 BHK,2,4180000
+572,Telangana,Hyderabad,Gachibowli,Suburb,West,20 x 30 ft,600,5,5 BHK,2,4490000
+573,Telangana,Hyderabad,Gachibowli,Suburb,South,40 x 60 ft,2400,2,2 BHK,1,14130000
+574,Telangana,Hyderabad,Gachibowli,Suburb,North,20 x 30 ft,600,5,5 BHK,3,4190000
+575,Telangana,Hyderabad,Gachibowli,Suburb,East,30 x 50 ft,1500,2,2 BHK,2,9410000
+576,Telangana,Hyderabad,Gachibowli,Suburb,East,20 x 30 ft,600,5,5 BHK,3,4500000
+577,Telangana,Hyderabad,Gachibowli,Suburb,South,30 x 50 ft,1500,1,1 BHK,1,9310000
+578,Telangana,Hyderabad,Gachibowli,Suburb,North,30 x 50 ft,1500,4,4 BHK,3,9290000
+579,Telangana,Hyderabad,Gachibowli,Suburb,East,40 x 60 ft,2400,4,4 BHK,1,15510000
+580,Telangana,Hyderabad,Gachibowli,Suburb,South,30 x 50 ft,1500,4,4 BHK,2,9610000
+581,Telangana,Hyderabad,Shamshabad,Outskirts,South,50 x 80 ft,4000,3,3 BHK,1,17700000
+582,Telangana,Hyderabad,Shamshabad,Outskirts,East,40 x 60 ft,2400,4,4 BHK,1,11460000
+583,Telangana,Hyderabad,Shamshabad,Outskirts,North,40 x 60 ft,2400,5,5 BHK,3,11040000
+584,Telangana,Hyderabad,Shamshabad,Outskirts,South,30 x 50 ft,1500,3,3 BHK,3,6820000
+585,Telangana,Hyderabad,Shamshabad,Outskirts,South,40 x 60 ft,2400,5,5 BHK,2,11170000
+586,Telangana,Hyderabad,Shamshabad,Outskirts,West,30 x 50 ft,1500,4,4 BHK,1,6870000
+587,Telangana,Hyderabad,Shamshabad,Outskirts,East,30 x 40 ft,1200,1,1 BHK,1,5690000
+588,Telangana,Hyderabad,Shamshabad,Outskirts,North,30 x 40 ft,1200,3,3 BHK,1,5920000
+589,Telangana,Hyderabad,Shamshabad,Outskirts,East,20 x 30 ft,600,3,3 BHK,3,3100000
+590,Telangana,Hyderabad,Shamshabad,Outskirts,North,40 x 60 ft,2400,5,5 BHK,1,10820000
+591,Telangana,Hyderabad,Shamshabad,Outskirts,North,20 x 30 ft,600,1,1 BHK,1,2880000
+592,Telangana,Hyderabad,Shamshabad,Outskirts,North,30 x 50 ft,1500,1,1 BHK,1,6910000
+593,Telangana,Hyderabad,Shamshabad,Outskirts,South,40 x 60 ft,2400,3,3 BHK,2,11190000
+594,Telangana,Hyderabad,Shamshabad,Outskirts,South,20 x 30 ft,600,5,5 BHK,2,3490000
+595,Telangana,Hyderabad,Shamshabad,Outskirts,South,40 x 60 ft,2400,3,3 BHK,3,11560000
+596,Telangana,Hyderabad,Shamshabad,Outskirts,North,50 x 80 ft,4000,5,5 BHK,1,17900000
+597,Telangana,Hyderabad,Shamshabad,Outskirts,North,30 x 50 ft,1500,4,4 BHK,1,7370000
+598,Telangana,Hyderabad,Shamshabad,Outskirts,West,50 x 80 ft,4000,1,1 BHK,1,18330000
+599,Telangana,Hyderabad,Shamshabad,Outskirts,West,20 x 30 ft,600,5,5 BHK,3,3370000
+600,Telangana,Hyderabad,Shamshabad,Outskirts,North,40 x 60 ft,2400,1,1 BHK,1,11130000
+601,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,North,50 x 80 ft,4000,3,3 BHK,2,19830000
+602,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,West,30 x 50 ft,1500,4,4 BHK,3,7810000
+603,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,West,40 x 60 ft,2400,4,4 BHK,1,12690000
+604,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,North,30 x 40 ft,1200,2,2 BHK,2,6210000
+605,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,South,20 x 30 ft,600,2,2 BHK,1,3030000
+606,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,North,30 x 40 ft,1200,3,3 BHK,3,6070000
+607,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,West,20 x 30 ft,600,5,5 BHK,1,3620000
+608,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,South,30 x 50 ft,1500,5,5 BHK,1,7960000
+609,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,West,20 x 30 ft,600,1,1 BHK,1,3130000
+610,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,North,40 x 60 ft,2400,1,1 BHK,1,11630000
+611,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,North,20 x 30 ft,600,2,2 BHK,2,3040000
+612,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,West,20 x 30 ft,600,5,5 BHK,1,3670000
+613,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,North,50 x 80 ft,4000,3,3 BHK,3,19660000
+614,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,North,50 x 80 ft,4000,3,3 BHK,2,20620000
+615,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,West,50 x 80 ft,4000,1,1 BHK,1,19180000
+616,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,West,50 x 80 ft,4000,5,5 BHK,1,20170000
+617,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,South,20 x 30 ft,600,5,5 BHK,2,3800000
+618,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,South,50 x 80 ft,4000,1,1 BHK,1,18390000
+619,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,South,50 x 80 ft,4000,1,1 BHK,1,20070000
+620,Andhra Pradesh,Visakhapatnam,MVP Colony,City Center,West,30 x 40 ft,1200,4,4 BHK,2,6550000
+621,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,West,30 x 40 ft,1200,5,5 BHK,3,5120000
+622,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,East,40 x 60 ft,2400,1,1 BHK,1,8710000
+623,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,South,20 x 30 ft,600,2,2 BHK,2,2500000
+624,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,South,30 x 40 ft,1200,3,3 BHK,3,4820000
+625,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,East,30 x 40 ft,1200,3,3 BHK,2,4590000
+626,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,South,40 x 60 ft,2400,3,3 BHK,2,8750000
+627,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,North,50 x 80 ft,4000,3,3 BHK,2,14320000
+628,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,East,20 x 30 ft,600,4,4 BHK,3,2750000
+629,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,North,50 x 80 ft,4000,2,2 BHK,1,14150000
+630,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,South,20 x 30 ft,600,1,1 BHK,1,2390000
+631,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,North,30 x 50 ft,1500,2,2 BHK,2,5460000
+632,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,South,50 x 80 ft,4000,2,2 BHK,2,14620000
+633,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,East,30 x 50 ft,1500,3,3 BHK,3,6000000
+634,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,West,30 x 50 ft,1500,2,2 BHK,2,5760000
+635,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,West,40 x 60 ft,2400,1,1 BHK,1,8800000
+636,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,North,50 x 80 ft,4000,4,4 BHK,1,15590000
+637,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,South,40 x 60 ft,2400,3,3 BHK,1,9110000
+638,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,East,40 x 60 ft,2400,3,3 BHK,3,8990000
+639,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,North,30 x 50 ft,1500,1,1 BHK,1,5650000
+640,Andhra Pradesh,Visakhapatnam,Gajuwaka,Suburb,West,30 x 40 ft,1200,4,4 BHK,2,4900000
+641,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,West,20 x 30 ft,600,5,5 BHK,2,2330000
+642,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,South,30 x 50 ft,1500,3,3 BHK,3,4250000
+643,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,South,30 x 50 ft,1500,3,3 BHK,3,4260000
+644,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,South,30 x 50 ft,1500,5,5 BHK,3,4700000
+645,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,West,50 x 80 ft,4000,2,2 BHK,1,10720000
+646,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,South,50 x 80 ft,4000,3,3 BHK,3,10950000
+647,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,East,40 x 60 ft,2400,1,1 BHK,1,6220000
+648,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,South,40 x 60 ft,2400,1,1 BHK,1,6790000
+649,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,North,40 x 60 ft,2400,5,5 BHK,1,7070000
+650,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,East,30 x 40 ft,1200,5,5 BHK,2,3820000
+651,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,North,30 x 50 ft,1500,3,3 BHK,2,4550000
+652,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,East,30 x 50 ft,1500,2,2 BHK,1,4260000
+653,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,East,40 x 60 ft,2400,5,5 BHK,3,7130000
+654,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,East,20 x 30 ft,600,4,4 BHK,3,2110000
+655,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,North,50 x 80 ft,4000,2,2 BHK,2,10540000
+656,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,North,20 x 30 ft,600,3,3 BHK,2,2060000
+657,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,West,30 x 40 ft,1200,3,3 BHK,1,3700000
+658,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,South,40 x 60 ft,2400,5,5 BHK,1,7240000
+659,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,South,30 x 50 ft,1500,3,3 BHK,1,4450000
+660,Andhra Pradesh,Visakhapatnam,Anandapuram,Outskirts,East,50 x 80 ft,4000,4,4 BHK,2,10750000
+661,Delhi,New Delhi,Connaught Place,City Center,North,40 x 60 ft,2400,5,5 BHK,1,30080000
+662,Delhi,New Delhi,Connaught Place,City Center,East,30 x 40 ft,1200,4,4 BHK,2,14470000
+663,Delhi,New Delhi,Connaught Place,City Center,South,30 x 40 ft,1200,4,4 BHK,2,15130000
+664,Delhi,New Delhi,Connaught Place,City Center,East,40 x 60 ft,2400,3,3 BHK,1,29430000
+665,Delhi,New Delhi,Connaught Place,City Center,North,30 x 50 ft,1500,3,3 BHK,1,18200000
+666,Delhi,New Delhi,Connaught Place,City Center,West,30 x 50 ft,1500,5,5 BHK,2,18670000
+667,Delhi,New Delhi,Connaught Place,City Center,West,30 x 50 ft,1500,4,4 BHK,3,19450000
+668,Delhi,New Delhi,Connaught Place,City Center,North,20 x 30 ft,600,4,4 BHK,1,7750000
+669,Delhi,New Delhi,Connaught Place,City Center,East,20 x 30 ft,600,3,3 BHK,3,7940000
+670,Delhi,New Delhi,Connaught Place,City Center,East,50 x 80 ft,4000,5,5 BHK,3,49370000
+671,Delhi,New Delhi,Connaught Place,City Center,South,30 x 40 ft,1200,5,5 BHK,2,15490000
+672,Delhi,New Delhi,Connaught Place,City Center,West,30 x 40 ft,1200,2,2 BHK,2,14910000
+673,Delhi,New Delhi,Connaught Place,City Center,North,30 x 40 ft,1200,1,1 BHK,1,14130000
+674,Delhi,New Delhi,Connaught Place,City Center,North,30 x 50 ft,1500,3,3 BHK,2,18780000
+675,Delhi,New Delhi,Connaught Place,City Center,East,30 x 50 ft,1500,1,1 BHK,1,18390000
+676,Delhi,New Delhi,Connaught Place,City Center,North,50 x 80 ft,4000,5,5 BHK,1,50320000
+677,Delhi,New Delhi,Connaught Place,City Center,West,20 x 30 ft,600,4,4 BHK,3,7890000
+678,Delhi,New Delhi,Connaught Place,City Center,West,20 x 30 ft,600,2,2 BHK,2,7340000
+679,Delhi,New Delhi,Connaught Place,City Center,North,30 x 50 ft,1500,3,3 BHK,3,18690000
+680,Delhi,New Delhi,Connaught Place,City Center,East,50 x 80 ft,4000,2,2 BHK,1,50500000
+681,Delhi,New Delhi,Dwarka,Suburb,West,30 x 40 ft,1200,1,1 BHK,1,11320000
+682,Delhi,New Delhi,Dwarka,Suburb,West,40 x 60 ft,2400,2,2 BHK,2,22360000
+683,Delhi,New Delhi,Dwarka,Suburb,East,40 x 60 ft,2400,2,2 BHK,2,21680000
+684,Delhi,New Delhi,Dwarka,Suburb,North,30 x 50 ft,1500,5,5 BHK,3,14220000
+685,Delhi,New Delhi,Dwarka,Suburb,North,20 x 30 ft,600,1,1 BHK,1,5820000
+686,Delhi,New Delhi,Dwarka,Suburb,South,30 x 50 ft,1500,5,5 BHK,3,14460000
+687,Delhi,New Delhi,Dwarka,Suburb,South,20 x 30 ft,600,2,2 BHK,2,5880000
+688,Delhi,New Delhi,Dwarka,Suburb,West,40 x 60 ft,2400,4,4 BHK,2,21630000
+689,Delhi,New Delhi,Dwarka,Suburb,East,40 x 60 ft,2400,5,5 BHK,3,22470000
+690,Delhi,New Delhi,Dwarka,Suburb,South,40 x 60 ft,2400,5,5 BHK,3,22970000
+691,Delhi,New Delhi,Dwarka,Suburb,East,40 x 60 ft,2400,2,2 BHK,2,22610000
+692,Delhi,New Delhi,Dwarka,Suburb,East,30 x 50 ft,1500,1,1 BHK,1,13400000
+693,Delhi,New Delhi,Dwarka,Suburb,West,20 x 30 ft,600,2,2 BHK,1,5440000
+694,Delhi,New Delhi,Dwarka,Suburb,West,20 x 30 ft,600,2,2 BHK,1,5610000
+695,Delhi,New Delhi,Dwarka,Suburb,East,20 x 30 ft,600,5,5 BHK,3,6350000
+696,Delhi,New Delhi,Dwarka,Suburb,West,30 x 50 ft,1500,1,1 BHK,1,14150000
+697,Delhi,New Delhi,Dwarka,Suburb,East,40 x 60 ft,2400,2,2 BHK,2,22870000
+698,Delhi,New Delhi,Dwarka,Suburb,South,20 x 30 ft,600,4,4 BHK,3,5750000
+699,Delhi,New Delhi,Dwarka,Suburb,North,30 x 40 ft,1200,5,5 BHK,1,12050000
+700,Delhi,New Delhi,Dwarka,Suburb,North,30 x 40 ft,1200,5,5 BHK,1,11980000
+701,Delhi,New Delhi,Narela,Outskirts,East,20 x 30 ft,600,4,4 BHK,3,4770000
+702,Delhi,New Delhi,Narela,Outskirts,East,20 x 30 ft,600,1,1 BHK,1,4100000
+703,Delhi,New Delhi,Narela,Outskirts,South,40 x 60 ft,2400,5,5 BHK,2,15930000
+704,Delhi,New Delhi,Narela,Outskirts,South,40 x 60 ft,2400,1,1 BHK,1,15920000
+705,Delhi,New Delhi,Narela,Outskirts,North,30 x 50 ft,1500,4,4 BHK,1,10030000
+706,Delhi,New Delhi,Narela,Outskirts,East,50 x 80 ft,4000,2,2 BHK,1,27560000
+707,Delhi,New Delhi,Narela,Outskirts,South,30 x 40 ft,1200,1,1 BHK,1,8370000
+708,Delhi,New Delhi,Narela,Outskirts,North,20 x 30 ft,600,4,4 BHK,1,4680000
+709,Delhi,New Delhi,Narela,Outskirts,East,30 x 40 ft,1200,1,1 BHK,1,7770000
+710,Delhi,New Delhi,Narela,Outskirts,South,40 x 60 ft,2400,4,4 BHK,1,16740000
+711,Delhi,New Delhi,Narela,Outskirts,East,20 x 30 ft,600,4,4 BHK,1,4460000
+712,Delhi,New Delhi,Narela,Outskirts,South,50 x 80 ft,4000,1,1 BHK,1,25520000
+713,Delhi,New Delhi,Narela,Outskirts,South,50 x 80 ft,4000,4,4 BHK,3,27910000
+714,Delhi,New Delhi,Narela,Outskirts,South,50 x 80 ft,4000,5,5 BHK,2,26710000
+715,Delhi,New Delhi,Narela,Outskirts,North,20 x 30 ft,600,4,4 BHK,2,4520000
+716,Delhi,New Delhi,Narela,Outskirts,North,30 x 50 ft,1500,1,1 BHK,1,9820000
+717,Delhi,New Delhi,Narela,Outskirts,South,30 x 50 ft,1500,1,1 BHK,1,10070000
+718,Delhi,New Delhi,Narela,Outskirts,East,20 x 30 ft,600,4,4 BHK,3,4680000
+719,Delhi,New Delhi,Narela,Outskirts,South,20 x 30 ft,600,4,4 BHK,2,4720000
+720,Delhi,New Delhi,Narela,Outskirts,North,50 x 80 ft,4000,2,2 BHK,2,26390000
+721,West Bengal,Kolkata,Park Street,City Center,West,30 x 40 ft,1200,5,5 BHK,2,8490000
+722,West Bengal,Kolkata,Park Street,City Center,East,50 x 80 ft,4000,1,1 BHK,1,26780000
+723,West Bengal,Kolkata,Park Street,City Center,West,40 x 60 ft,2400,1,1 BHK,1,15860000
+724,West Bengal,Kolkata,Park Street,City Center,East,30 x 50 ft,1500,5,5 BHK,1,11000000
+725,West Bengal,Kolkata,Park Street,City Center,East,30 x 50 ft,1500,1,1 BHK,1,10230000
+726,West Bengal,Kolkata,Park Street,City Center,West,20 x 30 ft,600,5,5 BHK,2,4490000
+727,West Bengal,Kolkata,Park Street,City Center,South,30 x 50 ft,1500,5,5 BHK,1,10960000
+728,West Bengal,Kolkata,Park Street,City Center,West,40 x 60 ft,2400,5,5 BHK,3,15630000
+729,West Bengal,Kolkata,Park Street,City Center,East,30 x 40 ft,1200,4,4 BHK,2,8810000
+730,West Bengal,Kolkata,Park Street,City Center,West,50 x 80 ft,4000,4,4 BHK,2,26980000
+731,West Bengal,Kolkata,Park Street,City Center,West,40 x 60 ft,2400,1,1 BHK,1,15320000
+732,West Bengal,Kolkata,Park Street,City Center,East,30 x 40 ft,1200,1,1 BHK,1,8230000
+733,West Bengal,Kolkata,Park Street,City Center,West,50 x 80 ft,4000,3,3 BHK,3,27720000
+734,West Bengal,Kolkata,Park Street,City Center,North,40 x 60 ft,2400,4,4 BHK,3,15810000
+735,West Bengal,Kolkata,Park Street,City Center,North,40 x 60 ft,2400,4,4 BHK,1,16830000
+736,West Bengal,Kolkata,Park Street,City Center,West,30 x 40 ft,1200,2,2 BHK,1,8450000
+737,West Bengal,Kolkata,Park Street,City Center,North,40 x 60 ft,2400,1,1 BHK,1,15030000
+738,West Bengal,Kolkata,Park Street,City Center,North,30 x 40 ft,1200,3,3 BHK,2,8040000
+739,West Bengal,Kolkata,Park Street,City Center,South,30 x 40 ft,1200,5,5 BHK,2,8190000
+740,West Bengal,Kolkata,Park Street,City Center,South,30 x 40 ft,1200,2,2 BHK,2,8050000
+741,West Bengal,Kolkata,Salt Lake,Suburb,North,30 x 50 ft,1500,5,5 BHK,1,7700000
+742,West Bengal,Kolkata,Salt Lake,Suburb,East,20 x 30 ft,600,3,3 BHK,1,3380000
+743,West Bengal,Kolkata,Salt Lake,Suburb,West,40 x 60 ft,2400,4,4 BHK,2,11820000
+744,West Bengal,Kolkata,Salt Lake,Suburb,North,30 x 50 ft,1500,4,4 BHK,3,8290000
+745,West Bengal,Kolkata,Salt Lake,Suburb,East,40 x 60 ft,2400,3,3 BHK,1,12070000
+746,West Bengal,Kolkata,Salt Lake,Suburb,East,30 x 40 ft,1200,2,2 BHK,2,5960000
+747,West Bengal,Kolkata,Salt Lake,Suburb,East,50 x 80 ft,4000,3,3 BHK,1,20840000
+748,West Bengal,Kolkata,Salt Lake,Suburb,West,30 x 50 ft,1500,5,5 BHK,2,8440000
+749,West Bengal,Kolkata,Salt Lake,Suburb,East,50 x 80 ft,4000,2,2 BHK,2,20230000
+750,West Bengal,Kolkata,Salt Lake,Suburb,West,20 x 30 ft,600,3,3 BHK,3,3470000
+751,West Bengal,Kolkata,Salt Lake,Suburb,North,30 x 40 ft,1200,5,5 BHK,2,6670000
+752,West Bengal,Kolkata,Salt Lake,Suburb,West,30 x 40 ft,1200,4,4 BHK,1,6370000
+753,West Bengal,Kolkata,Salt Lake,Suburb,West,30 x 40 ft,1200,3,3 BHK,1,6120000
+754,West Bengal,Kolkata,Salt Lake,Suburb,North,30 x 40 ft,1200,3,3 BHK,2,6260000
+755,West Bengal,Kolkata,Salt Lake,Suburb,West,50 x 80 ft,4000,3,3 BHK,1,18950000
+756,West Bengal,Kolkata,Salt Lake,Suburb,West,20 x 30 ft,600,3,3 BHK,2,3540000
+757,West Bengal,Kolkata,Salt Lake,Suburb,West,20 x 30 ft,600,5,5 BHK,3,3630000
+758,West Bengal,Kolkata,Salt Lake,Suburb,North,40 x 60 ft,2400,5,5 BHK,2,12970000
+759,West Bengal,Kolkata,Salt Lake,Suburb,North,30 x 50 ft,1500,2,2 BHK,2,7710000
+760,West Bengal,Kolkata,Salt Lake,Suburb,West,40 x 60 ft,2400,5,5 BHK,1,12270000
+761,West Bengal,Kolkata,Rajarhat,Outskirts,North,20 x 30 ft,600,2,2 BHK,1,2370000
+762,West Bengal,Kolkata,Rajarhat,Outskirts,East,40 x 60 ft,2400,4,4 BHK,3,9190000
+763,West Bengal,Kolkata,Rajarhat,Outskirts,North,20 x 30 ft,600,1,1 BHK,1,2190000
+764,West Bengal,Kolkata,Rajarhat,Outskirts,North,30 x 40 ft,1200,5,5 BHK,1,5270000
+765,West Bengal,Kolkata,Rajarhat,Outskirts,South,30 x 50 ft,1500,3,3 BHK,1,5820000
+766,West Bengal,Kolkata,Rajarhat,Outskirts,East,30 x 50 ft,1500,3,3 BHK,1,5730000
+767,West Bengal,Kolkata,Rajarhat,Outskirts,East,30 x 40 ft,1200,5,5 BHK,1,5170000
+768,West Bengal,Kolkata,Rajarhat,Outskirts,North,30 x 40 ft,1200,4,4 BHK,3,4910000
+769,West Bengal,Kolkata,Rajarhat,Outskirts,South,50 x 80 ft,4000,1,1 BHK,1,14590000
+770,West Bengal,Kolkata,Rajarhat,Outskirts,East,40 x 60 ft,2400,1,1 BHK,1,8350000
+771,West Bengal,Kolkata,Rajarhat,Outskirts,West,30 x 50 ft,1500,5,5 BHK,1,6060000
+772,West Bengal,Kolkata,Rajarhat,Outskirts,West,30 x 50 ft,1500,5,5 BHK,2,6280000
+773,West Bengal,Kolkata,Rajarhat,Outskirts,North,30 x 40 ft,1200,4,4 BHK,3,4900000
+774,West Bengal,Kolkata,Rajarhat,Outskirts,East,50 x 80 ft,4000,4,4 BHK,3,15540000
+775,West Bengal,Kolkata,Rajarhat,Outskirts,West,50 x 80 ft,4000,1,1 BHK,1,14580000
+776,West Bengal,Kolkata,Rajarhat,Outskirts,East,50 x 80 ft,4000,1,1 BHK,1,14020000
+777,West Bengal,Kolkata,Rajarhat,Outskirts,South,50 x 80 ft,4000,5,5 BHK,3,15630000
+778,West Bengal,Kolkata,Rajarhat,Outskirts,West,40 x 60 ft,2400,4,4 BHK,2,9390000
+779,West Bengal,Kolkata,Rajarhat,Outskirts,South,20 x 30 ft,600,5,5 BHK,1,2870000
+780,West Bengal,Kolkata,Rajarhat,Outskirts,North,50 x 80 ft,4000,1,1 BHK,1,14120000
+781,Gujarat,Ahmedabad,Navrangpura,City Center,South,30 x 50 ft,1500,4,4 BHK,3,8600000
+782,Gujarat,Ahmedabad,Navrangpura,City Center,East,50 x 80 ft,4000,5,5 BHK,1,22480000
+783,Gujarat,Ahmedabad,Navrangpura,City Center,South,30 x 40 ft,1200,2,2 BHK,2,6740000
+784,Gujarat,Ahmedabad,Navrangpura,City Center,South,20 x 30 ft,600,1,1 BHK,1,3490000
+785,Gujarat,Ahmedabad,Navrangpura,City Center,North,20 x 30 ft,600,1,1 BHK,1,3520000
+786,Gujarat,Ahmedabad,Navrangpura,City Center,East,50 x 80 ft,4000,1,1 BHK,1,22610000
+787,Gujarat,Ahmedabad,Navrangpura,City Center,South,40 x 60 ft,2400,1,1 BHK,1,13280000
+788,Gujarat,Ahmedabad,Navrangpura,City Center,East,30 x 50 ft,1500,1,1 BHK,1,8560000
+789,Gujarat,Ahmedabad,Navrangpura,City Center,North,50 x 80 ft,4000,1,1 BHK,1,21110000
+790,Gujarat,Ahmedabad,Navrangpura,City Center,West,50 x 80 ft,4000,1,1 BHK,1,21520000
+791,Gujarat,Ahmedabad,Navrangpura,City Center,North,40 x 60 ft,2400,5,5 BHK,3,13420000
+792,Gujarat,Ahmedabad,Navrangpura,City Center,North,40 x 60 ft,2400,5,5 BHK,3,14020000
+793,Gujarat,Ahmedabad,Navrangpura,City Center,West,30 x 50 ft,1500,2,2 BHK,2,8560000
+794,Gujarat,Ahmedabad,Navrangpura,City Center,West,40 x 60 ft,2400,2,2 BHK,1,12860000
+795,Gujarat,Ahmedabad,Navrangpura,City Center,North,30 x 50 ft,1500,2,2 BHK,1,8950000
+796,Gujarat,Ahmedabad,Navrangpura,City Center,North,40 x 60 ft,2400,3,3 BHK,1,14080000
+797,Gujarat,Ahmedabad,Navrangpura,City Center,North,20 x 30 ft,600,1,1 BHK,1,3430000
+798,Gujarat,Ahmedabad,Navrangpura,City Center,West,30 x 50 ft,1500,5,5 BHK,2,9050000
+799,Gujarat,Ahmedabad,Navrangpura,City Center,East,30 x 50 ft,1500,3,3 BHK,2,8970000
+800,Gujarat,Ahmedabad,Navrangpura,City Center,South,40 x 60 ft,2400,4,4 BHK,3,13550000
+801,Gujarat,Ahmedabad,Bopal,Suburb,South,30 x 50 ft,1500,1,1 BHK,1,6070000
+802,Gujarat,Ahmedabad,Bopal,Suburb,South,30 x 50 ft,1500,2,2 BHK,2,6750000
+803,Gujarat,Ahmedabad,Bopal,Suburb,South,40 x 60 ft,2400,4,4 BHK,1,10550000
+804,Gujarat,Ahmedabad,Bopal,Suburb,North,50 x 80 ft,4000,3,3 BHK,1,16700000
+805,Gujarat,Ahmedabad,Bopal,Suburb,North,20 x 30 ft,600,5,5 BHK,1,3350000
+806,Gujarat,Ahmedabad,Bopal,Suburb,North,30 x 50 ft,1500,1,1 BHK,1,6070000
+807,Gujarat,Ahmedabad,Bopal,Suburb,East,30 x 50 ft,1500,5,5 BHK,3,6630000
+808,Gujarat,Ahmedabad,Bopal,Suburb,East,40 x 60 ft,2400,1,1 BHK,1,10340000
+809,Gujarat,Ahmedabad,Bopal,Suburb,East,30 x 50 ft,1500,5,5 BHK,1,6820000
+810,Gujarat,Ahmedabad,Bopal,Suburb,South,30 x 40 ft,1200,1,1 BHK,1,4850000
+811,Gujarat,Ahmedabad,Bopal,Suburb,South,50 x 80 ft,4000,2,2 BHK,1,16130000
+812,Gujarat,Ahmedabad,Bopal,Suburb,South,50 x 80 ft,4000,4,4 BHK,2,17190000
+813,Gujarat,Ahmedabad,Bopal,Suburb,North,30 x 40 ft,1200,4,4 BHK,1,5390000
+814,Gujarat,Ahmedabad,Bopal,Suburb,North,40 x 60 ft,2400,3,3 BHK,3,10050000
+815,Gujarat,Ahmedabad,Bopal,Suburb,South,30 x 50 ft,1500,2,2 BHK,2,6610000
+816,Gujarat,Ahmedabad,Bopal,Suburb,West,30 x 50 ft,1500,3,3 BHK,1,6920000
+817,Gujarat,Ahmedabad,Bopal,Suburb,East,30 x 50 ft,1500,1,1 BHK,1,6460000
+818,Gujarat,Ahmedabad,Bopal,Suburb,North,40 x 60 ft,2400,3,3 BHK,3,10410000
+819,Gujarat,Ahmedabad,Bopal,Suburb,South,30 x 40 ft,1200,3,3 BHK,2,5270000
+820,Gujarat,Ahmedabad,Bopal,Suburb,West,20 x 30 ft,600,1,1 BHK,1,2580000
+821,Gujarat,Ahmedabad,Naroda,Outskirts,North,30 x 50 ft,1500,4,4 BHK,2,5330000
+822,Gujarat,Ahmedabad,Naroda,Outskirts,East,30 x 50 ft,1500,2,2 BHK,1,4670000
+823,Gujarat,Ahmedabad,Naroda,Outskirts,South,30 x 50 ft,1500,3,3 BHK,1,4840000
+824,Gujarat,Ahmedabad,Naroda,Outskirts,West,40 x 60 ft,2400,2,2 BHK,2,7700000
+825,Gujarat,Ahmedabad,Naroda,Outskirts,North,20 x 30 ft,600,1,1 BHK,1,1980000
+826,Gujarat,Ahmedabad,Naroda,Outskirts,West,20 x 30 ft,600,4,4 BHK,3,2530000
+827,Gujarat,Ahmedabad,Naroda,Outskirts,West,20 x 30 ft,600,5,5 BHK,2,2490000
+828,Gujarat,Ahmedabad,Naroda,Outskirts,South,20 x 30 ft,600,2,2 BHK,2,2170000
+829,Gujarat,Ahmedabad,Naroda,Outskirts,North,30 x 50 ft,1500,4,4 BHK,3,4920000
+830,Gujarat,Ahmedabad,Naroda,Outskirts,East,40 x 60 ft,2400,4,4 BHK,1,7870000
+831,Gujarat,Ahmedabad,Naroda,Outskirts,North,30 x 40 ft,1200,3,3 BHK,1,4100000
+832,Gujarat,Ahmedabad,Naroda,Outskirts,North,30 x 40 ft,1200,2,2 BHK,1,3770000
+833,Gujarat,Ahmedabad,Naroda,Outskirts,North,50 x 80 ft,4000,4,4 BHK,3,12100000
+834,Gujarat,Ahmedabad,Naroda,Outskirts,West,20 x 30 ft,600,5,5 BHK,3,2500000
+835,Gujarat,Ahmedabad,Naroda,Outskirts,South,30 x 50 ft,1500,5,5 BHK,2,5410000
+836,Gujarat,Ahmedabad,Naroda,Outskirts,East,20 x 30 ft,600,3,3 BHK,2,2240000
+837,Gujarat,Ahmedabad,Naroda,Outskirts,West,30 x 40 ft,1200,2,2 BHK,2,3880000
+838,Gujarat,Ahmedabad,Naroda,Outskirts,South,30 x 50 ft,1500,5,5 BHK,2,5230000
+839,Gujarat,Ahmedabad,Naroda,Outskirts,South,20 x 30 ft,600,3,3 BHK,2,2220000
+840,Gujarat,Ahmedabad,Naroda,Outskirts,East,30 x 40 ft,1200,1,1 BHK,1,3670000
